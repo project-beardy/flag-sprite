@@ -1,0 +1,23 @@
+{
+  "name": "@project-beardy/iso-flag-sprite",
+  "version": "0.0.1",
+  "description": "",
+  "main": "make.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/project-beardy/flag-sprite.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/project-beardy/flag-sprite/issues"
+  },
+  "homepage": "https://github.com/project-beardy/flag-sprite#readme",
+  "dependencies": {
+    "@project-beardy/svg-sprite-sheets-factory": "^0.4.0-beta-a"
+  }
+}
