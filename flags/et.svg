@@ -1,1 +1,41 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 720 360"><path fill="#da121a" d="M0 0h720v360H0z"/><path fill="#fcdd09" d="M0 0h720v240H0z"/><path fill="#078930" d="M0 0h720v120H0z"/><g transform="translate(360 180)"><circle fill="#0f47af" r="120"/><g id="a"><path fill="#fcdd09" d="M0-96l-4.206 12.944 17.348 53.39h-23.13l-2.599 8h74.163l11.011-8H21.553z"/><path stroke="#fcdd09" stroke-width="4" d="M25.863-35.597l30.564-42.069"/></g><use xlink:href="#a" transform="rotate(72)"/><use xlink:href="#a" transform="rotate(144)"/><use xlink:href="#a" transform="rotate(216)"/><use xlink:href="#a" transform="rotate(288)"/></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 720 480" style="enable-background:new 0 0 720 480;" xml:space="preserve">
+<g>
+	<path style="fill:#DA121A;" d="M0,0h720v480H0V0z"/>
+	<path style="fill:#FCDD09;" d="M0,0h720v320H0V0z"/>
+	<path style="fill:#078930;" d="M0,0h720v160H0V0z"/>
+	<g transform="translate(360 180)">
+		<ellipse style="fill:#0F47AF;" cx="0" cy="60" rx="120" ry="160"/>
+		<g id="a">
+			<path style="fill:#FCDD09;" d="M0-68l-4.2,17.3l17.3,71.2H-10l-2.6,10.7h74.2l11-10.7h-51L0-68z"/>
+			<path style="stroke:#FCDD09;stroke-width:4;" d="M25.9,12.5l30.6-56.1"/>
+		</g>
+		<g transform="rotate(72)">
+			<g id="a_1_">
+				<path style="fill:#FCDD09;" d="M91.3,20.4l-13.6,0l-45.4,44l-7.1-29.3l-8.4,0l22.9,94l11,10.7L34.9,75.1L91.3,20.4z"/>
+				<path style="stroke:#FCDD09;stroke-width:4;" d="M41.8,78.1l49.5,21.4"/>
+			</g>
+		</g>
+		<g transform="rotate(144)">
+			<g id="a_2_">
+				<path style="fill:#FCDD09;" d="M56.4,163.6l-4.2-17.3l-45.4-44l18.7-18.1l-2.6-10.7l-60,58.1l-4.2,17.3l41.3-40L56.4,163.6z"/>
+				<path style="stroke:#FCDD09;stroke-width:4;" d="M0,118.7L0,188"/>
+			</g>
+		</g>
+		<g transform="rotate(216)">
+			<g id="a_3_">
+				<path style="fill:#FCDD09;" d="M-56.4,163.6l11-10.7l17.3-71.2l18.7,18.1l6.8-6.6l-60-58.1l-13.6,0l41.3,40L-56.4,163.6z"/>
+				<path style="stroke:#FCDD09;stroke-width:4;" d="M-41.8,78.1l-49.5,21.4"/>
+			</g>
+		</g>
+		<g transform="rotate(288)">
+			<g id="a_4_">
+				<path style="fill:#FCDD09;" d="M-91.3,20.4l11,10.7l56.1,0l-7.1,29.3l6.8,6.6l22.9-94l-4.2-17.3l-15.8,64.7L-91.3,20.4z"/>
+				<path style="stroke:#FCDD09;stroke-width:4;" d="M-25.9,12.5l-30.6-56.1"/>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>

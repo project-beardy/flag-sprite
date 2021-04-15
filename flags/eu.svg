@@ -1,1 +1,592 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 810 540"><defs><g id="d"><g id="b"><path id="a" d="M0 0v1h.5z" transform="rotate(18 3.157 -.5)"/><use xlink:href="#a" transform="scale(-1 1)"/></g><g id="c"><use xlink:href="#b" transform="rotate(72)"/><use xlink:href="#b" transform="rotate(144)"/></g><use xlink:href="#c" transform="scale(-1 1)"/></g></defs><path fill="#039" d="M0 0h810v540H0z"/><g fill="#fc0" transform="matrix(30 0 0 30 405 270)"><use xlink:href="#d" y="-6"/><use xlink:href="#d" y="6"/><g id="e"><use xlink:href="#d" x="-6"/><use xlink:href="#d" transform="rotate(-144 -2.344 -2.11)"/><use xlink:href="#d" transform="rotate(144 -2.11 -2.344)"/><use xlink:href="#d" transform="rotate(72 -4.663 -2.076)"/><use xlink:href="#d" transform="rotate(72 -5.076 .534)"/></g><use xlink:href="#e" transform="scale(-1 1)"/></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 720 480" style="enable-background:new 0 0 720 480;" xml:space="preserve">
+<g>
+	<path style="fill:#003399;" d="M0,0h720v480H0V0z"/>
+	<g transform="matrix(30 0 0 30 405 270)">
+		<g>
+			<g id="d">
+				<g id="b">
+					<path id="a" style="fill:#FFCC00;" d="M-1.5-7.2l-0.3,0.8l0.4,0.1L-1.5-7.2z"/>
+					<g transform="scale(-1 1)">
+						<path id="a_1_" style="fill:#FFCC00;" d="M-1.5-7.2l0.3,0.8l-0.4,0.1L-1.5-7.2z"/>
+					</g>
+				</g>
+				<g id="c">
+					<g transform="rotate(72)">
+						<g id="b_1_">
+							<path id="a_2_" style="fill:#FFCC00;" d="M-0.7-6.6h-0.9v0.4L-0.7-6.6z"/>
+							<g transform="scale(-1 1)">
+								<path id="a_3_" style="fill:#FFCC00;" d="M-0.7-6.6l-0.7,0.5l-0.3-0.4L-0.7-6.6z"/>
+							</g>
+						</g>
+					</g>
+					<g transform="rotate(144)">
+						<g id="b_2_">
+							<path id="a_4_" style="fill:#FFCC00;" d="M-1-5.6l-0.3-0.8l-0.4,0.1L-1-5.6z"/>
+							<g transform="scale(-1 1)">
+								<path id="a_5_" style="fill:#FFCC00;" d="M-1-5.6l-0.7-0.5l0.3-0.4L-1-5.6z"/>
+							</g>
+						</g>
+					</g>
+				</g>
+				<g transform="scale(-1 1)">
+					<g id="c_1_">
+						<g transform="rotate(72)">
+							<g id="b_3_">
+								<path id="a_6_" style="fill:#FFCC00;" d="M-2.3-6.6h0.9v0.4L-2.3-6.6z"/>
+								<g transform="scale(-1 1)">
+									<path id="a_7_" style="fill:#FFCC00;" d="M-2.3-6.6l0.7,0.5l0.3-0.4L-2.3-6.6z"/>
+								</g>
+							</g>
+						</g>
+						<g transform="rotate(144)">
+							<g id="b_4_">
+								<path id="a_8_" style="fill:#FFCC00;" d="M-2-5.6l0.3-0.8l0.4,0.1L-2-5.6z"/>
+								<g transform="scale(-1 1)">
+									<path id="a_9_" style="fill:#FFCC00;" d="M-2-5.6l0.7-0.5l-0.3-0.4L-2-5.6z"/>
+								</g>
+							</g>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g id="d_1_">
+				<g id="b_5_">
+					<path id="a_10_" style="fill:#FFCC00;" d="M-1.5,3.4l-0.3,0.8l0.4,0.1L-1.5,3.4z"/>
+					<g transform="scale(-1 1)">
+						<path id="a_11_" style="fill:#FFCC00;" d="M-1.5,3.4l0.3,0.8l-0.4,0.1L-1.5,3.4z"/>
+					</g>
+				</g>
+				<g id="c_2_">
+					<g transform="rotate(72)">
+						<g id="b_6_">
+							<path id="a_12_" style="fill:#FFCC00;" d="M-0.7,4.1h-0.9v0.4L-0.7,4.1z"/>
+							<g transform="scale(-1 1)">
+								<path id="a_13_" style="fill:#FFCC00;" d="M-0.7,4.1l-0.7,0.5l-0.3-0.4L-0.7,4.1z"/>
+							</g>
+						</g>
+					</g>
+					<g transform="rotate(144)">
+						<g id="b_7_">
+							<path id="a_14_" style="fill:#FFCC00;" d="M-1,5.1l-0.3-0.8l-0.4,0.1L-1,5.1z"/>
+							<g transform="scale(-1 1)">
+								<path id="a_15_" style="fill:#FFCC00;" d="M-1,5.1l-0.7-0.5l0.3-0.4L-1,5.1z"/>
+							</g>
+						</g>
+					</g>
+				</g>
+				<g transform="scale(-1 1)">
+					<g id="c_3_">
+						<g transform="rotate(72)">
+							<g id="b_8_">
+								<path id="a_16_" style="fill:#FFCC00;" d="M-2.3,4.1h0.9v0.4L-2.3,4.1z"/>
+								<g transform="scale(-1 1)">
+									<path id="a_17_" style="fill:#FFCC00;" d="M-2.3,4.1l0.7,0.5l0.3-0.4L-2.3,4.1z"/>
+								</g>
+							</g>
+						</g>
+						<g transform="rotate(144)">
+							<g id="b_9_">
+								<path id="a_18_" style="fill:#FFCC00;" d="M-2,5.1l0.3-0.8l0.4,0.1L-2,5.1z"/>
+								<g transform="scale(-1 1)">
+									<path id="a_19_" style="fill:#FFCC00;" d="M-2,5.1l0.7-0.5l-0.3-0.4L-2,5.1z"/>
+								</g>
+							</g>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+		<g id="e">
+			<g>
+				<g id="d_2_">
+					<g id="b_10_">
+						<path id="a_20_" style="fill:#FFCC00;" d="M-6.8-1.9L-7.1-1l0.4,0.1L-6.8-1.9z"/>
+						<g transform="scale(-1 1)">
+							<path id="a_21_" style="fill:#FFCC00;" d="M-6.8-1.9L-6.6-1L-7-0.9L-6.8-1.9z"/>
+						</g>
+					</g>
+					<g id="c_4_">
+						<g transform="rotate(72)">
+							<g id="b_11_">
+								<path id="a_22_" style="fill:#FFCC00;" d="M-6-1.3h-0.9v0.4L-6-1.3z"/>
+								<g transform="scale(-1 1)">
+									<path id="a_23_" style="fill:#FFCC00;" d="M-6-1.3l-0.7,0.5L-7-1.1L-6-1.3z"/>
+								</g>
+							</g>
+						</g>
+						<g transform="rotate(144)">
+							<g id="b_12_">
+								<path id="a_24_" style="fill:#FFCC00;" d="M-6.3-0.3l-0.3-0.8L-7-1L-6.3-0.3z"/>
+								<g transform="scale(-1 1)">
+									<path id="a_25_" style="fill:#FFCC00;" d="M-6.3-0.3L-7-0.8l0.3-0.4L-6.3-0.3z"/>
+								</g>
+							</g>
+						</g>
+					</g>
+					<g transform="scale(-1 1)">
+						<g id="c_5_">
+							<g transform="rotate(72)">
+								<g id="b_13_">
+									<path id="a_26_" style="fill:#FFCC00;" d="M-7.7-1.3h0.9v0.4L-7.7-1.3z"/>
+									<g transform="scale(-1 1)">
+										<path id="a_27_" style="fill:#FFCC00;" d="M-7.7-1.3L-7-0.8l0.3-0.4L-7.7-1.3z"/>
+									</g>
+								</g>
+							</g>
+							<g transform="rotate(144)">
+								<g id="b_14_">
+									<path id="a_28_" style="fill:#FFCC00;" d="M-7.4-0.3l0.3-0.8L-6.7-1L-7.4-0.3z"/>
+									<g transform="scale(-1 1)">
+										<path id="a_29_" style="fill:#FFCC00;" d="M-7.4-0.3l0.7-0.5l-0.3-0.4L-7.4-0.3z"/>
+									</g>
+								</g>
+							</g>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g transform="rotate(-144 -2.344 -2.11)">
+				<g id="d_3_">
+					<g id="b_15_">
+						<path id="a_30_" style="fill:#FFCC00;" d="M-4.7-4.9L-4-5.4l-0.3-0.4L-4.7-4.9z"/>
+						<g transform="scale(-1 1)">
+							<path id="a_31_" style="fill:#FFCC00;" d="M-4.7-4.9l0.3-0.8L-4-5.6L-4.7-4.9z"/>
+						</g>
+					</g>
+					<g id="c_6_">
+						<g transform="rotate(72)">
+							<g id="b_16_">
+								<path id="a_32_" style="fill:#FFCC00;" d="M-5-5.9l0.7,0.5L-4-5.7L-5-5.9z"/>
+								<g transform="scale(-1 1)">
+									<path id="a_33_" style="fill:#FFCC00;" d="M-5-5.9h0.9v0.4L-5-5.9z"/>
+								</g>
+							</g>
+						</g>
+						<g transform="rotate(144)">
+							<g id="b_17_">
+								<path id="a_34_" style="fill:#FFCC00;" d="M-4.2-6.5l-0.3,0.8L-4-5.5L-4.2-6.5z"/>
+								<g transform="scale(-1 1)">
+									<path id="a_35_" style="fill:#FFCC00;" d="M-4.2-6.5l0.3,0.8l-0.4,0.1L-4.2-6.5z"/>
+								</g>
+							</g>
+						</g>
+					</g>
+					<g transform="scale(-1 1)">
+						<g id="c_7_">
+							<g transform="rotate(72)">
+								<g id="b_18_">
+									<path id="a_36_" style="fill:#FFCC00;" d="M-3.6-4.9l-0.7-0.5l0.3-0.4L-3.6-4.9z"/>
+									<g transform="scale(-1 1)">
+										<path id="a_37_" style="fill:#FFCC00;" d="M-3.6-4.9l-0.3-0.8l-0.4,0.1L-3.6-4.9z"/>
+									</g>
+								</g>
+							</g>
+							<g transform="rotate(144)">
+								<g id="b_19_">
+									<path id="a_38_" style="fill:#FFCC00;" d="M-3.3-5.9L-4-5.4l-0.3-0.4L-3.3-5.9z"/>
+									<g transform="scale(-1 1)">
+										<path id="a_39_" style="fill:#FFCC00;" d="M-3.3-5.9h-0.9v0.4L-3.3-5.9z"/>
+									</g>
+								</g>
+							</g>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g transform="rotate(144 -2.11 -2.344)">
+				<g id="d_4_">
+					<g id="b_20_">
+						<path id="a_40_" style="fill:#FFCC00;" d="M-5.6-2.9l-0.3-0.8l-0.4,0.1L-5.6-2.9z"/>
+						<g transform="scale(-1 1)">
+							<path id="a_41_" style="fill:#FFCC00;" d="M-5.6-2.9l-0.7-0.5l0.3-0.4L-5.6-2.9z"/>
+						</g>
+					</g>
+					<g id="c_8_">
+						<g transform="rotate(72)">
+							<g id="b_21_">
+								<path id="a_42_" style="fill:#FFCC00;" d="M-6.6-2.9l0.7-0.5l-0.3-0.4L-6.6-2.9z"/>
+								<g transform="scale(-1 1)">
+									<path id="a_43_" style="fill:#FFCC00;" d="M-6.6-2.9l0.3-0.8l0.4,0.1L-6.6-2.9z"/>
+								</g>
+							</g>
+						</g>
+						<g transform="rotate(144)">
+							<g id="b_22_">
+								<path id="a_44_" style="fill:#FFCC00;" d="M-7-3.9l0.7,0.5L-6-3.8L-7-3.9z"/>
+								<g transform="scale(-1 1)">
+									<path id="a_45_" style="fill:#FFCC00;" d="M-7-3.9h0.9v0.4L-7-3.9z"/>
+								</g>
+							</g>
+						</g>
+					</g>
+					<g transform="scale(-1 1)">
+						<g id="c_9_">
+							<g transform="rotate(72)">
+								<g id="b_23_">
+									<path id="a_46_" style="fill:#FFCC00;" d="M-5.3-3.9L-6-3.4l-0.3-0.4L-5.3-3.9z"/>
+									<g transform="scale(-1 1)">
+										<path id="a_47_" style="fill:#FFCC00;" d="M-5.3-3.9h-0.9v0.4L-5.3-3.9z"/>
+									</g>
+								</g>
+							</g>
+							<g transform="rotate(144)">
+								<g id="b_24_">
+									<path id="a_48_" style="fill:#FFCC00;" d="M-6.1-4.6l0.3,0.8l-0.4,0.1L-6.1-4.6z"/>
+									<g transform="scale(-1 1)">
+										<path id="a_49_" style="fill:#FFCC00;" d="M-6.1-4.6l-0.3,0.8L-6-3.6L-6.1-4.6z"/>
+									</g>
+								</g>
+							</g>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g transform="rotate(72 -4.663 -2.076)">
+				<g id="d_5_">
+					<g id="b_25_">
+						<path id="a_50_" style="fill:#FFCC00;" d="M-5.3,1.4h-0.9v0.4L-5.3,1.4z"/>
+						<g transform="scale(-1 1)">
+							<path id="a_51_" style="fill:#FFCC00;" d="M-5.3,1.4L-6,1.9l-0.3-0.4L-5.3,1.4z"/>
+						</g>
+					</g>
+					<g id="c_10_">
+						<g transform="rotate(72)">
+							<g id="b_26_">
+								<path id="a_52_" style="fill:#FFCC00;" d="M-5.6,2.4l-0.3-0.8l-0.4,0.1L-5.6,2.4z"/>
+								<g transform="scale(-1 1)">
+									<path id="a_53_" style="fill:#FFCC00;" d="M-5.6,2.4l-0.7-0.5l0.3-0.4L-5.6,2.4z"/>
+								</g>
+							</g>
+						</g>
+						<g transform="rotate(144)">
+							<g id="b_27_">
+								<path id="a_54_" style="fill:#FFCC00;" d="M-6.6,2.4l0.7-0.5l-0.3-0.4L-6.6,2.4z"/>
+								<g transform="scale(-1 1)">
+									<path id="a_55_" style="fill:#FFCC00;" d="M-6.6,2.4l0.3-0.8l0.4,0.1L-6.6,2.4z"/>
+								</g>
+							</g>
+						</g>
+					</g>
+					<g transform="scale(-1 1)">
+						<g id="c_11_">
+							<g transform="rotate(72)">
+								<g id="b_28_">
+									<path id="a_56_" style="fill:#FFCC00;" d="M-6.1,0.8l0.3,0.8l-0.4,0.1L-6.1,0.8z"/>
+									<g transform="scale(-1 1)">
+										<path id="a_57_" style="fill:#FFCC00;" d="M-6.1,0.8l-0.3,0.8L-6,1.8L-6.1,0.8z"/>
+									</g>
+								</g>
+							</g>
+							<g transform="rotate(144)">
+								<g id="b_29_">
+									<path id="a_58_" style="fill:#FFCC00;" d="M-7,1.4h0.9v0.4L-7,1.4z"/>
+									<g transform="scale(-1 1)">
+										<path id="a_59_" style="fill:#FFCC00;" d="M-7,1.4l0.7,0.5L-6,1.6L-7,1.4z"/>
+									</g>
+								</g>
+							</g>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g transform="rotate(72 -5.076 .534)">
+				<g id="d_6_">
+					<g id="b_30_">
+						<path id="a_60_" style="fill:#FFCC00;" d="M-3.3,3.3h-0.9v0.4L-3.3,3.3z"/>
+						<g transform="scale(-1 1)">
+							<path id="a_61_" style="fill:#FFCC00;" d="M-3.3,3.3L-4,3.9l-0.3-0.4L-3.3,3.3z"/>
+						</g>
+					</g>
+					<g id="c_12_">
+						<g transform="rotate(72)">
+							<g id="b_31_">
+								<path id="a_62_" style="fill:#FFCC00;" d="M-3.6,4.3l-0.3-0.8l-0.4,0.1L-3.6,4.3z"/>
+								<g transform="scale(-1 1)">
+									<path id="a_63_" style="fill:#FFCC00;" d="M-3.6,4.3l-0.7-0.5l0.3-0.4L-3.6,4.3z"/>
+								</g>
+							</g>
+						</g>
+						<g transform="rotate(144)">
+							<g id="b_32_">
+								<path id="a_64_" style="fill:#FFCC00;" d="M-4.7,4.3L-4,3.8l-0.3-0.4L-4.7,4.3z"/>
+								<g transform="scale(-1 1)">
+									<path id="a_65_" style="fill:#FFCC00;" d="M-4.7,4.3l0.3-0.8L-4,3.6L-4.7,4.3z"/>
+								</g>
+							</g>
+						</g>
+					</g>
+					<g transform="scale(-1 1)">
+						<g id="c_13_">
+							<g transform="rotate(72)">
+								<g id="b_33_">
+									<path id="a_66_" style="fill:#FFCC00;" d="M-4.2,2.7l0.3,0.8l-0.4,0.1L-4.2,2.7z"/>
+									<g transform="scale(-1 1)">
+										<path id="a_67_" style="fill:#FFCC00;" d="M-4.2,2.7l-0.3,0.8L-4,3.7L-4.2,2.7z"/>
+									</g>
+								</g>
+							</g>
+							<g transform="rotate(144)">
+								<g id="b_34_">
+									<path id="a_68_" style="fill:#FFCC00;" d="M-5,3.3h0.9v0.4L-5,3.3z"/>
+									<g transform="scale(-1 1)">
+										<path id="a_69_" style="fill:#FFCC00;" d="M-5,3.3l0.7,0.5L-4,3.5L-5,3.3z"/>
+									</g>
+								</g>
+							</g>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+		<g transform="scale(-1 1)">
+			<g id="e_1_">
+				<g>
+					<g id="d_7_">
+						<g id="b_35_">
+							<path id="a_70_" style="fill:#FFCC00;" d="M3.8-1.9L4.1-1L3.7-0.9L3.8-1.9z"/>
+							<g transform="scale(-1 1)">
+								<path id="a_71_" style="fill:#FFCC00;" d="M3.8-1.9L3.6-1L4-0.9L3.8-1.9z"/>
+							</g>
+						</g>
+						<g id="c_14_">
+							<g transform="rotate(72)">
+								<g id="b_36_">
+									<path id="a_72_" style="fill:#FFCC00;" d="M3-1.3h0.9v0.4L3-1.3z"/>
+									<g transform="scale(-1 1)">
+										<path id="a_73_" style="fill:#FFCC00;" d="M3-1.3l0.7,0.5L4-1.1L3-1.3z"/>
+									</g>
+								</g>
+							</g>
+							<g transform="rotate(144)">
+								<g id="b_37_">
+									<path id="a_74_" style="fill:#FFCC00;" d="M3.3-0.3l0.3-0.8L4-1L3.3-0.3z"/>
+									<g transform="scale(-1 1)">
+										<path id="a_75_" style="fill:#FFCC00;" d="M3.3-0.3L4-0.8L3.8-1.2L3.3-0.3z"/>
+									</g>
+								</g>
+							</g>
+						</g>
+						<g transform="scale(-1 1)">
+							<g id="c_15_">
+								<g transform="rotate(72)">
+									<g id="b_38_">
+										<path id="a_76_" style="fill:#FFCC00;" d="M4.7-1.3H3.8v0.4L4.7-1.3z"/>
+										<g transform="scale(-1 1)">
+											<path id="a_77_" style="fill:#FFCC00;" d="M4.7-1.3L4-0.8L3.7-1.1L4.7-1.3z"/>
+										</g>
+									</g>
+								</g>
+								<g transform="rotate(144)">
+									<g id="b_39_">
+										<path id="a_78_" style="fill:#FFCC00;" d="M4.4-0.3L4.1-1.1L3.7-1L4.4-0.3z"/>
+										<g transform="scale(-1 1)">
+											<path id="a_79_" style="fill:#FFCC00;" d="M4.4-0.3L3.6-0.8l0.3-0.4L4.4-0.3z"/>
+										</g>
+									</g>
+								</g>
+							</g>
+						</g>
+					</g>
+				</g>
+				<g transform="rotate(-144 -2.344 -2.11)">
+					<g id="d_8_">
+						<g id="b_40_">
+							<path id="a_80_" style="fill:#FFCC00;" d="M1.7-4.9L1-5.4l0.3-0.4L1.7-4.9z"/>
+							<g transform="scale(-1 1)">
+								<path id="a_81_" style="fill:#FFCC00;" d="M1.7-4.9L1.4-5.7L1-5.6L1.7-4.9z"/>
+							</g>
+						</g>
+						<g id="c_16_">
+							<g transform="rotate(72)">
+								<g id="b_41_">
+									<path id="a_82_" style="fill:#FFCC00;" d="M2-5.9L1.3-5.4L1-5.7L2-5.9z"/>
+									<g transform="scale(-1 1)">
+										<path id="a_83_" style="fill:#FFCC00;" d="M2-5.9H1.1v0.4L2-5.9z"/>
+									</g>
+								</g>
+							</g>
+							<g transform="rotate(144)">
+								<g id="b_42_">
+									<path id="a_84_" style="fill:#FFCC00;" d="M1.2-6.5l0.3,0.8L1-5.5L1.2-6.5z"/>
+									<g transform="scale(-1 1)">
+										<path id="a_85_" style="fill:#FFCC00;" d="M1.2-6.5L0.9-5.7l0.4,0.1L1.2-6.5z"/>
+									</g>
+								</g>
+							</g>
+						</g>
+						<g transform="scale(-1 1)">
+							<g id="c_17_">
+								<g transform="rotate(72)">
+									<g id="b_43_">
+										<path id="a_86_" style="fill:#FFCC00;" d="M0.6-4.9l0.7-0.5L1.1-5.8L0.6-4.9z"/>
+										<g transform="scale(-1 1)">
+											<path id="a_87_" style="fill:#FFCC00;" d="M0.6-4.9l0.3-0.8l0.4,0.1L0.6-4.9z"/>
+										</g>
+									</g>
+								</g>
+								<g transform="rotate(144)">
+									<g id="b_44_">
+										<path id="a_88_" style="fill:#FFCC00;" d="M0.3-5.9L1-5.4l0.3-0.4L0.3-5.9z"/>
+										<g transform="scale(-1 1)">
+											<path id="a_89_" style="fill:#FFCC00;" d="M0.3-5.9h0.9v0.4L0.3-5.9z"/>
+										</g>
+									</g>
+								</g>
+							</g>
+						</g>
+					</g>
+				</g>
+				<g transform="rotate(144 -2.11 -2.344)">
+					<g id="d_9_">
+						<g id="b_45_">
+							<path id="a_90_" style="fill:#FFCC00;" d="M2.6-2.9l0.3-0.8l0.4,0.1L2.6-2.9z"/>
+							<g transform="scale(-1 1)">
+								<path id="a_91_" style="fill:#FFCC00;" d="M2.6-2.9l0.7-0.5L3.1-3.8L2.6-2.9z"/>
+							</g>
+						</g>
+						<g id="c_18_">
+							<g transform="rotate(72)">
+								<g id="b_46_">
+									<path id="a_92_" style="fill:#FFCC00;" d="M3.6-2.9L2.9-3.5l0.3-0.4L3.6-2.9z"/>
+									<g transform="scale(-1 1)">
+										<path id="a_93_" style="fill:#FFCC00;" d="M3.6-2.9L3.4-3.8L2.9-3.7L3.6-2.9z"/>
+									</g>
+								</g>
+							</g>
+							<g transform="rotate(144)">
+								<g id="b_47_">
+									<path id="a_94_" style="fill:#FFCC00;" d="M4-3.9L3.2-3.4L3-3.8L4-3.9z"/>
+									<g transform="scale(-1 1)">
+										<path id="a_95_" style="fill:#FFCC00;" d="M4-3.9H3.1v0.4L4-3.9z"/>
+									</g>
+								</g>
+							</g>
+						</g>
+						<g transform="scale(-1 1)">
+							<g id="c_19_">
+								<g transform="rotate(72)">
+									<g id="b_48_">
+										<path id="a_96_" style="fill:#FFCC00;" d="M2.3-3.9L3-3.4l0.3-0.4L2.3-3.9z"/>
+										<g transform="scale(-1 1)">
+											<path id="a_97_" style="fill:#FFCC00;" d="M2.3-3.9h0.9v0.4L2.3-3.9z"/>
+										</g>
+									</g>
+								</g>
+								<g transform="rotate(144)">
+									<g id="b_49_">
+										<path id="a_98_" style="fill:#FFCC00;" d="M3.1-4.6L2.8-3.7l0.4,0.1L3.1-4.6z"/>
+										<g transform="scale(-1 1)">
+											<path id="a_99_" style="fill:#FFCC00;" d="M3.1-4.6l0.3,0.8L3-3.6L3.1-4.6z"/>
+										</g>
+									</g>
+								</g>
+							</g>
+						</g>
+					</g>
+				</g>
+				<g transform="rotate(72 -4.663 -2.076)">
+					<g id="d_10_">
+						<g id="b_50_">
+							<path id="a_100_" style="fill:#FFCC00;" d="M2.3,1.4h0.9v0.4L2.3,1.4z"/>
+							<g transform="scale(-1 1)">
+								<path id="a_101_" style="fill:#FFCC00;" d="M2.3,1.4L3,1.9l0.3-0.4L2.3,1.4z"/>
+							</g>
+						</g>
+						<g id="c_20_">
+							<g transform="rotate(72)">
+								<g id="b_51_">
+									<path id="a_102_" style="fill:#FFCC00;" d="M2.6,2.4l0.3-0.8l0.4,0.1L2.6,2.4z"/>
+									<g transform="scale(-1 1)">
+										<path id="a_103_" style="fill:#FFCC00;" d="M2.6,2.4l0.7-0.5L3.1,1.5L2.6,2.4z"/>
+									</g>
+								</g>
+							</g>
+							<g transform="rotate(144)">
+								<g id="b_52_">
+									<path id="a_104_" style="fill:#FFCC00;" d="M3.6,2.4L2.9,1.9l0.3-0.4L3.6,2.4z"/>
+									<g transform="scale(-1 1)">
+										<path id="a_105_" style="fill:#FFCC00;" d="M3.6,2.4L3.4,1.5L2.9,1.7L3.6,2.4z"/>
+									</g>
+								</g>
+							</g>
+						</g>
+						<g transform="scale(-1 1)">
+							<g id="c_21_">
+								<g transform="rotate(72)">
+									<g id="b_53_">
+										<path id="a_106_" style="fill:#FFCC00;" d="M3.1,0.8L2.8,1.6l0.4,0.1L3.1,0.8z"/>
+										<g transform="scale(-1 1)">
+											<path id="a_107_" style="fill:#FFCC00;" d="M3.1,0.8l0.3,0.8L3,1.8L3.1,0.8z"/>
+										</g>
+									</g>
+								</g>
+								<g transform="rotate(144)">
+									<g id="b_54_">
+										<path id="a_108_" style="fill:#FFCC00;" d="M4,1.4H3.1v0.4L4,1.4z"/>
+										<g transform="scale(-1 1)">
+											<path id="a_109_" style="fill:#FFCC00;" d="M4,1.4L3.2,1.9L3,1.6L4,1.4z"/>
+										</g>
+									</g>
+								</g>
+							</g>
+						</g>
+					</g>
+				</g>
+				<g transform="rotate(72 -5.076 .534)">
+					<g id="d_11_">
+						<g id="b_55_">
+							<path id="a_110_" style="fill:#FFCC00;" d="M0.3,3.3h0.9v0.4L0.3,3.3z"/>
+							<g transform="scale(-1 1)">
+								<path id="a_111_" style="fill:#FFCC00;" d="M0.3,3.3L1,3.9l0.3-0.4L0.3,3.3z"/>
+							</g>
+						</g>
+						<g id="c_22_">
+							<g transform="rotate(72)">
+								<g id="b_56_">
+									<path id="a_112_" style="fill:#FFCC00;" d="M0.6,4.3l0.3-0.8l0.4,0.1L0.6,4.3z"/>
+									<g transform="scale(-1 1)">
+										<path id="a_113_" style="fill:#FFCC00;" d="M0.6,4.3l0.7-0.5L1.1,3.5L0.6,4.3z"/>
+									</g>
+								</g>
+							</g>
+							<g transform="rotate(144)">
+								<g id="b_57_">
+									<path id="a_114_" style="fill:#FFCC00;" d="M1.7,4.3L1,3.8l0.3-0.4L1.7,4.3z"/>
+									<g transform="scale(-1 1)">
+										<path id="a_115_" style="fill:#FFCC00;" d="M1.7,4.3L1.4,3.5L1,3.6L1.7,4.3z"/>
+									</g>
+								</g>
+							</g>
+						</g>
+						<g transform="scale(-1 1)">
+							<g id="c_23_">
+								<g transform="rotate(72)">
+									<g id="b_58_">
+										<path id="a_116_" style="fill:#FFCC00;" d="M1.2,2.7L0.9,3.6l0.4,0.1L1.2,2.7z"/>
+										<g transform="scale(-1 1)">
+											<path id="a_117_" style="fill:#FFCC00;" d="M1.2,2.7l0.3,0.8L1,3.7L1.2,2.7z"/>
+										</g>
+									</g>
+								</g>
+								<g transform="rotate(144)">
+									<g id="b_59_">
+										<path id="a_118_" style="fill:#FFCC00;" d="M2,3.3H1.1v0.4L2,3.3z"/>
+										<g transform="scale(-1 1)">
+											<path id="a_119_" style="fill:#FFCC00;" d="M2,3.3L1.3,3.9L1,3.5L2,3.3z"/>
+										</g>
+									</g>
+								</g>
+							</g>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>
