@@ -1,16 +1,99 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 54 36">
-<rect width="54" height="36" fill="#002b7f"/>
-<path d="M0,22.5H54V27H0z" fill="#f9e814"/>
-<g fill="#fff" id="s">
-<g id="f">
-<g id="t">
-<path d="m12,8v4h2z" transform="rotate(18,12,8)" id="o"/>
-<use xlink:href="#o" x="-24" transform="scale(-1,1)"/>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 720 480" style="enable-background:new 0 0 720 480;" xml:space="preserve">
+<g>
+	<rect style="fill:#002B7F;" width="720" height="480"/>
+	<path style="fill:#F9E814;" d="M0,300h720v60H0V300z"/>
+	<g id="s">
+		<g id="f">
+			<g id="t">
+				<path id="o" style="fill:#FFFFFF;" d="M160,106.7l-16.5,50.7l25.4,8.2L160,106.7z"/>
+				<g transform="scale(-1,1)">
+					<path id="o_1_" style="fill:#FFFFFF;" d="M160,106.7l16.5,50.7l-25.4,8.2L160,106.7z"/>
+				</g>
+			</g>
+			<g transform="rotate(72,12,12)">
+				<g id="t_1_">
+					<path id="o_2_" style="fill:#FFFFFF;" d="M210.7,143.5h-53.3v26.7L210.7,143.5z"/>
+					<g transform="scale(-1,1)">
+						<path id="o_3_" style="fill:#FFFFFF;" d="M210.7,143.5l-43.1,31.3l-15.7-21.6L210.7,143.5z"/>
+					</g>
+				</g>
+			</g>
+		</g>
+		<g transform="rotate(-72,12,12)">
+			<g id="t_2_">
+				<path id="o_4_" style="fill:#FFFFFF;" d="M109.3,143.5l43.1,31.3l15.7-21.6L109.3,143.5z"/>
+				<g transform="scale(-1,1)">
+					<path id="o_5_" style="fill:#FFFFFF;" d="M109.3,143.5h53.3v26.7L109.3,143.5z"/>
+				</g>
+			</g>
+		</g>
+		<g transform="rotate(144,12,12)">
+			<g id="f_1_">
+				<g id="t_3_">
+					<path id="o_6_" style="fill:#FFFFFF;" d="M191.3,203.1l-16.5-50.7l-25.4,8.2L191.3,203.1z"/>
+					<g transform="scale(-1,1)">
+						<path id="o_7_" style="fill:#FFFFFF;" d="M191.3,203.1l-43.1-31.3l15.7-21.6L191.3,203.1z"/>
+					</g>
+				</g>
+				<g transform="rotate(72,12,12)">
+					<g id="t_4_">
+						<path id="o_8_" style="fill:#FFFFFF;" d="M128.7,203.1l43.1-31.3l-15.7-21.6L128.7,203.1z"/>
+						<g transform="scale(-1,1)">
+							<path id="o_9_" style="fill:#FFFFFF;" d="M128.7,203.1l16.5-50.7l25.4,8.2L128.7,203.1z"/>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g transform="scale(0.75)">
+		<g id="s_1_">
+			<g id="f_2_">
+				<g id="t_5_">
+					<path id="o_10_" style="fill:#FFFFFF;" d="M80,40L67.6,78l19,6.2L80,40z"/>
+					<g transform="scale(-1,1)">
+						<path id="o_11_" style="fill:#FFFFFF;" d="M80,40l12.4,38l-19,6.2L80,40z"/>
+					</g>
+				</g>
+				<g transform="rotate(72,12,12)">
+					<g id="t_6_">
+						<path id="o_12_" style="fill:#FFFFFF;" d="M118,67.6H78v20L118,67.6z"/>
+						<g transform="scale(-1,1)">
+							<path id="o_13_" style="fill:#FFFFFF;" d="M118,67.6L85.7,91.2L73.9,75L118,67.6z"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g transform="rotate(-72,12,12)">
+				<g id="t_7_">
+					<path id="o_14_" style="fill:#FFFFFF;" d="M42,67.6l32.4,23.5L86.1,75L42,67.6z"/>
+					<g transform="scale(-1,1)">
+						<path id="o_15_" style="fill:#FFFFFF;" d="M42,67.6h40v20L42,67.6z"/>
+					</g>
+				</g>
+			</g>
+			<g transform="rotate(144,12,12)">
+				<g id="f_3_">
+					<g id="t_8_">
+						<path id="o_16_" style="fill:#FFFFFF;" d="M103.5,112.4l-12.4-38l-19,6.2L103.5,112.4z"/>
+						<g transform="scale(-1,1)">
+							<path id="o_17_" style="fill:#FFFFFF;" d="M103.5,112.4L71.2,88.8l11.8-16.2L103.5,112.4z"/>
+						</g>
+					</g>
+					<g transform="rotate(72,12,12)">
+						<g id="t_9_">
+							<path id="o_18_" style="fill:#FFFFFF;" d="M56.5,112.4l32.4-23.5L77.1,72.7L56.5,112.4z"/>
+							<g transform="scale(-1,1)">
+								<path id="o_19_" style="fill:#FFFFFF;" d="M56.5,112.4l12.4-38l19,6.2L56.5,112.4z"/>
+							</g>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
 </g>
-<use xlink:href="#t" transform="rotate(72,12,12)"/>
-</g>
-<use xlink:href="#t" transform="rotate(-72,12,12)"/>
-<use xlink:href="#f" transform="rotate(144,12,12)"/>
-</g>
-<use xlink:href="#s" x="-4" y="-4" transform="scale(0.75)"/>
 </svg>

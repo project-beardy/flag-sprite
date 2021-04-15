@@ -1,24 +1,440 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 510 300">
-<rect width="510" height="300" fill="#003893"/>
-<rect width="510" height="75" y="150" fill="#fff"/>
-<rect width="510" height="25" y="175" fill="#cf2027"/>
-<g fill="#f7d116" transform="translate(191.25,187.5)">
-<g id="s2">
-<g id="s" transform="translate(0,-75)">
-<g id="c">
-<path id="t" d="M0,-15V0H7.5" transform="rotate(18,0,-15)"/>
-<use xlink:href="#t" transform="scale(-1,1)"/>
-</g>
-<use xlink:href="#c" transform="rotate(72)"/>
-<use xlink:href="#c" transform="rotate(144)"/>
-<use xlink:href="#c" transform="rotate(216)"/>
-<use xlink:href="#c" transform="rotate(288)"/>
-</g>
-<use xlink:href="#s" y="150"/>
-</g>
-<use xlink:href="#s2" transform="rotate(72)"/>
-<use xlink:href="#s2" transform="rotate(144)"/>
-<use xlink:href="#s2" transform="rotate(216)"/>
-<use xlink:href="#s2" transform="rotate(288)"/>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 720 480" style="enable-background:new 0 0 720 480;" xml:space="preserve">
+<g>
+	<rect style="fill:#003893;" width="720" height="480"/>
+	<rect y="240" style="fill:#FFFFFF;" width="720" height="120"/>
+	<rect y="280" style="fill:#CF2027;" width="720" height="40"/>
+	<g transform="translate(191.25,187.5)">
+		<g id="s2">
+			<g id="s" transform="translate(0,-75)">
+				<g id="c">
+					<path id="t" style="fill:#F7D116;" d="M78.7,43.5l-6.5,22.8L82.3,70"/>
+					<g transform="scale(-1,1)">
+						<path id="t_1_" style="fill:#F7D116;" d="M78.7,43.5l6.5,22.8L75.2,70"/>
+					</g>
+				</g>
+				<g transform="rotate(72)">
+					<g id="c_1_">
+						<path id="t_2_" style="fill:#F7D116;" d="M98.9,60.1H77.7v12"/>
+						<g transform="scale(-1,1)">
+							<path id="t_3_" style="fill:#F7D116;" d="M98.9,60.1L81.8,74.2l-6.2-9.7"/>
+						</g>
+					</g>
+				</g>
+				<g transform="rotate(144)">
+					<g id="c_2_">
+						<path id="t_4_" style="fill:#F7D116;" d="M91.2,86.9l-6.5-22.8l-10.1,3.7"/>
+						<g transform="scale(-1,1)">
+							<path id="t_5_" style="fill:#F7D116;" d="M91.2,86.9L74.1,72.8l6.2-9.7"/>
+						</g>
+					</g>
+				</g>
+				<g transform="rotate(216)">
+					<g id="c_3_">
+						<path id="t_6_" style="fill:#F7D116;" d="M66.3,86.9l17.1-14.1l-6.2-9.7"/>
+						<g transform="scale(-1,1)">
+							<path id="t_7_" style="fill:#F7D116;" d="M66.3,86.9l6.5-22.8l10.1,3.7"/>
+						</g>
+					</g>
+				</g>
+				<g transform="rotate(288)">
+					<g id="c_4_">
+						<path id="t_8_" style="fill:#F7D116;" d="M58.6,60.1l17.1,14.1l6.2-9.7"/>
+						<g transform="scale(-1,1)">
+							<path id="t_9_" style="fill:#F7D116;" d="M58.6,60.1h21.2v12"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g>
+				<g id="s_1_" transform="translate(0,-75)">
+					<g id="c_5_">
+						<path id="t_10_" style="fill:#F7D116;" d="M78.7,283.5l-6.5,22.8l10.1,3.7"/>
+						<g transform="scale(-1,1)">
+							<path id="t_11_" style="fill:#F7D116;" d="M78.7,283.5l6.5,22.8L75.2,310"/>
+						</g>
+					</g>
+					<g transform="rotate(72)">
+						<g id="c_6_">
+							<path id="t_12_" style="fill:#F7D116;" d="M98.9,300.1H77.7v12"/>
+							<g transform="scale(-1,1)">
+								<path id="t_13_" style="fill:#F7D116;" d="M98.9,300.1l-17.1,14.1l-6.2-9.7"/>
+							</g>
+						</g>
+					</g>
+					<g transform="rotate(144)">
+						<g id="c_7_">
+							<path id="t_14_" style="fill:#F7D116;" d="M91.2,326.9l-6.5-22.8l-10.1,3.7"/>
+							<g transform="scale(-1,1)">
+								<path id="t_15_" style="fill:#F7D116;" d="M91.2,326.9l-17.1-14.1l6.2-9.7"/>
+							</g>
+						</g>
+					</g>
+					<g transform="rotate(216)">
+						<g id="c_8_">
+							<path id="t_16_" style="fill:#F7D116;" d="M66.3,326.9l17.1-14.1l-6.2-9.7"/>
+							<g transform="scale(-1,1)">
+								<path id="t_17_" style="fill:#F7D116;" d="M66.3,326.9l6.5-22.8l10.1,3.7"/>
+							</g>
+						</g>
+					</g>
+					<g transform="rotate(288)">
+						<g id="c_9_">
+							<path id="t_18_" style="fill:#F7D116;" d="M58.6,300.1l17.1,14.1l6.2-9.7"/>
+							<g transform="scale(-1,1)">
+								<path id="t_19_" style="fill:#F7D116;" d="M58.6,300.1h21.2v12"/>
+							</g>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+		<g transform="rotate(72)">
+			<g id="s2_1_">
+				<g id="s_2_" transform="translate(0,-75)">
+					<g id="c_10_">
+						<path id="t_20_" style="fill:#F7D116;" d="M199.6,143h-21.2v12"/>
+						<g transform="scale(-1,1)">
+							<path id="t_21_" style="fill:#F7D116;" d="M199.6,143l-17.1,14.1l-6.2-9.7"/>
+						</g>
+					</g>
+					<g transform="rotate(72)">
+						<g id="c_11_">
+							<path id="t_22_" style="fill:#F7D116;" d="M191.9,169.8l-6.5-22.8l-10.1,3.7"/>
+							<g transform="scale(-1,1)">
+								<path id="t_23_" style="fill:#F7D116;" d="M191.9,169.8l-17.1-14.1l6.2-9.7"/>
+							</g>
+						</g>
+					</g>
+					<g transform="rotate(144)">
+						<g id="c_12_">
+							<path id="t_24_" style="fill:#F7D116;" d="M167,169.8l17.1-14.1l-6.2-9.7"/>
+							<g transform="scale(-1,1)">
+								<path id="t_25_" style="fill:#F7D116;" d="M167,169.8l6.5-22.8l10.1,3.7"/>
+							</g>
+						</g>
+					</g>
+					<g transform="rotate(216)">
+						<g id="c_13_">
+							<path id="t_26_" style="fill:#F7D116;" d="M159.3,143l17.1,14.1l6.2-9.7"/>
+							<g transform="scale(-1,1)">
+								<path id="t_27_" style="fill:#F7D116;" d="M159.3,143h21.2v12"/>
+							</g>
+						</g>
+					</g>
+					<g transform="rotate(288)">
+						<g id="c_14_">
+							<path id="t_28_" style="fill:#F7D116;" d="M179.5,126.4l-6.5,22.8L183,153"/>
+							<g transform="scale(-1,1)">
+								<path id="t_29_" style="fill:#F7D116;" d="M179.5,126.4l6.5,22.8l-10.1,3.7"/>
+							</g>
+						</g>
+					</g>
+				</g>
+				<g>
+					<g id="s_3_" transform="translate(0,-75)">
+						<g id="c_15_">
+							<path id="t_30_" style="fill:#F7D116;" d="M-1.8,217.2H-23v12"/>
+							<g transform="scale(-1,1)">
+								<path id="t_31_" style="fill:#F7D116;" d="M-1.8,217.2l-17.1,14.1l-6.2-9.7"/>
+							</g>
+						</g>
+						<g transform="rotate(72)">
+							<g id="c_16_">
+								<path id="t_32_" style="fill:#F7D116;" d="M-9.5,244l-6.5-22.8l-10.1,3.7"/>
+								<g transform="scale(-1,1)">
+									<path id="t_33_" style="fill:#F7D116;" d="M-9.5,244l-17.1-14.1l6.2-9.7"/>
+								</g>
+							</g>
+						</g>
+						<g transform="rotate(144)">
+							<g id="c_17_">
+								<path id="t_34_" style="fill:#F7D116;" d="M-34.4,244l17.1-14.1l-6.2-9.7"/>
+								<g transform="scale(-1,1)">
+									<path id="t_35_" style="fill:#F7D116;" d="M-34.4,244l6.5-22.8l10.1,3.7"/>
+								</g>
+							</g>
+						</g>
+						<g transform="rotate(216)">
+							<g id="c_18_">
+								<path id="t_36_" style="fill:#F7D116;" d="M-42.1,217.2l17.1,14.1l6.2-9.7"/>
+								<g transform="scale(-1,1)">
+									<path id="t_37_" style="fill:#F7D116;" d="M-42.1,217.2h21.2v12"/>
+								</g>
+							</g>
+						</g>
+						<g transform="rotate(288)">
+							<g id="c_19_">
+								<path id="t_38_" style="fill:#F7D116;" d="M-22,200.6l-6.5,22.8l10.1,3.7"/>
+								<g transform="scale(-1,1)">
+									<path id="t_39_" style="fill:#F7D116;" d="M-22,200.6l6.5,22.8l-10.1,3.7"/>
+								</g>
+							</g>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+		<g transform="rotate(144)">
+			<g id="s2_2_">
+				<g id="s_4_" transform="translate(0,-75)">
+					<g id="c_20_">
+						<path id="t_40_" style="fill:#F7D116;" d="M153.4,304l-6.5-22.8l-10.1,3.7"/>
+						<g transform="scale(-1,1)">
+							<path id="t_41_" style="fill:#F7D116;" d="M153.4,304l-17.1-14.1l6.2-9.7"/>
+						</g>
+					</g>
+					<g transform="rotate(72)">
+						<g id="c_21_">
+							<path id="t_42_" style="fill:#F7D116;" d="M128.5,304l17.1-14.1l-6.2-9.7"/>
+							<g transform="scale(-1,1)">
+								<path id="t_43_" style="fill:#F7D116;" d="M128.5,304l6.5-22.8l10.1,3.7"/>
+							</g>
+						</g>
+					</g>
+					<g transform="rotate(144)">
+						<g id="c_22_">
+							<path id="t_44_" style="fill:#F7D116;" d="M120.8,277.2l17.1,14.1l6.2-9.7"/>
+							<g transform="scale(-1,1)">
+								<path id="t_45_" style="fill:#F7D116;" d="M120.8,277.2H142v12"/>
+							</g>
+						</g>
+					</g>
+					<g transform="rotate(216)">
+						<g id="c_23_">
+							<path id="t_46_" style="fill:#F7D116;" d="M141,260.6l-6.5,22.8l10.1,3.7"/>
+							<g transform="scale(-1,1)">
+								<path id="t_47_" style="fill:#F7D116;" d="M141,260.6l6.5,22.8l-10.1,3.7"/>
+							</g>
+						</g>
+					</g>
+					<g transform="rotate(288)">
+						<g id="c_24_">
+							<path id="t_48_" style="fill:#F7D116;" d="M161.1,277.2h-21.2v12"/>
+							<g transform="scale(-1,1)">
+								<path id="t_49_" style="fill:#F7D116;" d="M161.1,277.2L144,291.3l-6.2-9.7"/>
+							</g>
+						</g>
+					</g>
+				</g>
+				<g>
+					<g id="s_5_" transform="translate(0,-75)">
+						<g id="c_25_">
+							<path id="t_50_" style="fill:#F7D116;" d="M29,109.8L22.4,87l-10.1,3.7"/>
+							<g transform="scale(-1,1)">
+								<path id="t_51_" style="fill:#F7D116;" d="M29,109.8L11.8,95.7l6.2-9.7"/>
+							</g>
+						</g>
+						<g transform="rotate(72)">
+							<g id="c_26_">
+								<path id="t_52_" style="fill:#F7D116;" d="M4.1,109.8l17.1-14.1L15,86"/>
+								<g transform="scale(-1,1)">
+									<path id="t_53_" style="fill:#F7D116;" d="M4.1,109.8L10.6,87l10.1,3.7"/>
+								</g>
+							</g>
+						</g>
+						<g transform="rotate(144)">
+							<g id="c_27_">
+								<path id="t_54_" style="fill:#F7D116;" d="M-3.6,83l17.1,14.1l6.2-9.7"/>
+								<g transform="scale(-1,1)">
+									<path id="t_55_" style="fill:#F7D116;" d="M-3.6,83h21.2v12"/>
+								</g>
+							</g>
+						</g>
+						<g transform="rotate(216)">
+							<g id="c_28_">
+								<path id="t_56_" style="fill:#F7D116;" d="M16.5,66.4L10,89.2L20,93"/>
+								<g transform="scale(-1,1)">
+									<path id="t_57_" style="fill:#F7D116;" d="M16.5,66.4l6.5,22.8L13,93"/>
+								</g>
+							</g>
+						</g>
+						<g transform="rotate(288)">
+							<g id="c_29_">
+								<path id="t_58_" style="fill:#F7D116;" d="M36.7,83H15.5v12"/>
+								<g transform="scale(-1,1)">
+									<path id="t_59_" style="fill:#F7D116;" d="M36.7,83L19.5,97.1l-6.2-9.7"/>
+								</g>
+							</g>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+		<g transform="rotate(216)">
+			<g id="s2_3_">
+				<g id="s_6_" transform="translate(0,-75)">
+					<g id="c_30_">
+						<path id="t_60_" style="fill:#F7D116;" d="M4.1,304l17.1-14.1l-6.2-9.7"/>
+						<g transform="scale(-1,1)">
+							<path id="t_61_" style="fill:#F7D116;" d="M4.1,304l6.5-22.8l10.1,3.7"/>
+						</g>
+					</g>
+					<g transform="rotate(72)">
+						<g id="c_31_">
+							<path id="t_62_" style="fill:#F7D116;" d="M-3.6,277.2l17.1,14.1l6.2-9.7"/>
+							<g transform="scale(-1,1)">
+								<path id="t_63_" style="fill:#F7D116;" d="M-3.6,277.2h21.2v12"/>
+							</g>
+						</g>
+					</g>
+					<g transform="rotate(144)">
+						<g id="c_32_">
+							<path id="t_64_" style="fill:#F7D116;" d="M16.5,260.6L10,283.4l10.1,3.7"/>
+							<g transform="scale(-1,1)">
+								<path id="t_65_" style="fill:#F7D116;" d="M16.5,260.6l6.5,22.8L13,287.1"/>
+							</g>
+						</g>
+					</g>
+					<g transform="rotate(216)">
+						<g id="c_33_">
+							<path id="t_66_" style="fill:#F7D116;" d="M36.7,277.2H15.5v12"/>
+							<g transform="scale(-1,1)">
+								<path id="t_67_" style="fill:#F7D116;" d="M36.7,277.2l-17.1,14.1l-6.2-9.7"/>
+							</g>
+						</g>
+					</g>
+					<g transform="rotate(288)">
+						<g id="c_34_">
+							<path id="t_68_" style="fill:#F7D116;" d="M29,304l-6.5-22.8l-10.1,3.7"/>
+							<g transform="scale(-1,1)">
+								<path id="t_69_" style="fill:#F7D116;" d="M29,304l-17.1-14.1l6.2-9.7"/>
+							</g>
+						</g>
+					</g>
+				</g>
+				<g>
+					<g id="s_7_" transform="translate(0,-75)">
+						<g id="c_35_">
+							<path id="t_70_" style="fill:#F7D116;" d="M128.5,109.8l17.1-14.1l-6.2-9.7"/>
+							<g transform="scale(-1,1)">
+								<path id="t_71_" style="fill:#F7D116;" d="M128.5,109.8l6.5-22.8l10.1,3.7"/>
+							</g>
+						</g>
+						<g transform="rotate(72)">
+							<g id="c_36_">
+								<path id="t_72_" style="fill:#F7D116;" d="M120.8,83L138,97.1l6.2-9.7"/>
+								<g transform="scale(-1,1)">
+									<path id="t_73_" style="fill:#F7D116;" d="M120.8,83H142v12"/>
+								</g>
+							</g>
+						</g>
+						<g transform="rotate(144)">
+							<g id="c_37_">
+								<path id="t_74_" style="fill:#F7D116;" d="M141,66.4l-6.5,22.8l10.1,3.7"/>
+								<g transform="scale(-1,1)">
+									<path id="t_75_" style="fill:#F7D116;" d="M141,66.4l6.5,22.8L137.5,93"/>
+								</g>
+							</g>
+						</g>
+						<g transform="rotate(216)">
+							<g id="c_38_">
+								<path id="t_76_" style="fill:#F7D116;" d="M161.1,83h-21.2v12"/>
+								<g transform="scale(-1,1)">
+									<path id="t_77_" style="fill:#F7D116;" d="M161.1,83L144,97.1l-6.2-9.7"/>
+								</g>
+							</g>
+						</g>
+						<g transform="rotate(288)">
+							<g id="c_39_">
+								<path id="t_78_" style="fill:#F7D116;" d="M153.4,109.8L146.9,87l-10.1,3.7"/>
+								<g transform="scale(-1,1)">
+									<path id="t_79_" style="fill:#F7D116;" d="M153.4,109.8l-17.1-14.1l6.2-9.7"/>
+								</g>
+							</g>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+		<g transform="rotate(288)">
+			<g id="s2_4_">
+				<g id="s_8_" transform="translate(0,-75)">
+					<g id="c_40_">
+						<path id="t_80_" style="fill:#F7D116;" d="M-42.1,143l17.1,14.1l6.2-9.7"/>
+						<g transform="scale(-1,1)">
+							<path id="t_81_" style="fill:#F7D116;" d="M-42.1,143h21.2v12"/>
+						</g>
+					</g>
+					<g transform="rotate(72)">
+						<g id="c_41_">
+							<path id="t_82_" style="fill:#F7D116;" d="M-22,126.4l-6.5,22.8l10.1,3.7"/>
+							<g transform="scale(-1,1)">
+								<path id="t_83_" style="fill:#F7D116;" d="M-22,126.4l6.5,22.8l-10.1,3.7"/>
+							</g>
+						</g>
+					</g>
+					<g transform="rotate(144)">
+						<g id="c_42_">
+							<path id="t_84_" style="fill:#F7D116;" d="M-1.8,143H-23v12"/>
+							<g transform="scale(-1,1)">
+								<path id="t_85_" style="fill:#F7D116;" d="M-1.8,143l-17.1,14.1l-6.2-9.7"/>
+							</g>
+						</g>
+					</g>
+					<g transform="rotate(216)">
+						<g id="c_43_">
+							<path id="t_86_" style="fill:#F7D116;" d="M-9.5,169.8L-16,147l-10.1,3.7"/>
+							<g transform="scale(-1,1)">
+								<path id="t_87_" style="fill:#F7D116;" d="M-9.5,169.8l-17.1-14.1l6.2-9.7"/>
+							</g>
+						</g>
+					</g>
+					<g transform="rotate(288)">
+						<g id="c_44_">
+							<path id="t_88_" style="fill:#F7D116;" d="M-34.4,169.8l17.1-14.1l-6.2-9.7"/>
+							<g transform="scale(-1,1)">
+								<path id="t_89_" style="fill:#F7D116;" d="M-34.4,169.8l6.5-22.8l10.1,3.7"/>
+							</g>
+						</g>
+					</g>
+				</g>
+				<g>
+					<g id="s_9_" transform="translate(0,-75)">
+						<g id="c_45_">
+							<path id="t_90_" style="fill:#F7D116;" d="M159.3,217.2l17.1,14.1l6.2-9.7"/>
+							<g transform="scale(-1,1)">
+								<path id="t_91_" style="fill:#F7D116;" d="M159.3,217.2h21.2v12"/>
+							</g>
+						</g>
+						<g transform="rotate(72)">
+							<g id="c_46_">
+								<path id="t_92_" style="fill:#F7D116;" d="M179.5,200.6l-6.5,22.8l10.1,3.7"/>
+								<g transform="scale(-1,1)">
+									<path id="t_93_" style="fill:#F7D116;" d="M179.5,200.6l6.5,22.8l-10.1,3.7"/>
+								</g>
+							</g>
+						</g>
+						<g transform="rotate(144)">
+							<g id="c_47_">
+								<path id="t_94_" style="fill:#F7D116;" d="M199.6,217.2h-21.2v12"/>
+								<g transform="scale(-1,1)">
+									<path id="t_95_" style="fill:#F7D116;" d="M199.6,217.2l-17.1,14.1l-6.2-9.7"/>
+								</g>
+							</g>
+						</g>
+						<g transform="rotate(216)">
+							<g id="c_48_">
+								<path id="t_96_" style="fill:#F7D116;" d="M191.9,244l-6.5-22.8l-10.1,3.7"/>
+								<g transform="scale(-1,1)">
+									<path id="t_97_" style="fill:#F7D116;" d="M191.9,244l-17.1-14.1l6.2-9.7"/>
+								</g>
+							</g>
+						</g>
+						<g transform="rotate(288)">
+							<g id="c_49_">
+								<path id="t_98_" style="fill:#F7D116;" d="M167,244l17.1-14.1l-6.2-9.7"/>
+								<g transform="scale(-1,1)">
+									<path id="t_99_" style="fill:#F7D116;" d="M167,244l6.5-22.8l10.1,3.7"/>
+								</g>
+							</g>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
 </g>
 </svg>

@@ -1,1 +1,1292 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="-2100 -1470 4200 2940"><defs><path id="i" fill-rule="evenodd" d="M-31.5 0h33a30 30 0 0030-30v-10a30 30 0 00-30-30h-33zm13-13h19a19 19 0 0019-19v-6a19 19 0 00-19-19h-19z"/><path id="n" d="M-15.75-22C-15.75-15-9-11.5 1-11.5s14.74-3.25 14.75-7.75c0-14.25-46.75-5.25-46.5-30.25C-30.5-71-6-70 3-70s26 4 25.75 21.25H13.5c0-7.5-7-10.25-15-10.25-7.75 0-13.25 1.25-13.25 8.5-.25 11.75 46.25 4 46.25 28.75C31.5-3.5 13.5 0 0 0c-11.5 0-31.55-4.5-31.5-22z"/><path id="l" d="M-26.25 0h52.5v-12h-40.5v-16h33v-12h-33v-11H25v-12h-51.25z"/><path id="k" d="M-31.5 0h12v-48l14 48h11l14-48V0h12v-70H14L0-22l-14-48h-17.5z"/><path id="d" fill-rule="evenodd" d="M0 0a31.5 35 0 000-70A31.5 35 0 000 0m0-13a18.5 22 0 000-44 18.5 22 0 000 44"/><path id="f" fill-rule="evenodd" d="M-31.5 0h13v-26h28a22 22 0 000-44h-40zm13-39h27a9 9 0 000-18h-27z"/><path id="j" transform="translate(-31.5)" d="M0 0h63v-13H12v-18h40v-12H12v-14h48v-13H0z"/><use id="q" xlink:href="#a" transform="scale(15)"/><use id="s" xlink:href="#a" transform="scale(10.5)"/><use id="r" xlink:href="#a" transform="scale(21)"/><use id="o" xlink:href="#a" transform="scale(31.5)"/><use id="p" xlink:href="#a" transform="scale(26.25)"/><g id="a" fill="#fff"><g id="c"><path id="b" transform="rotate(18 0 -1)" d="M0-1v1h.5"/><use xlink:href="#b" transform="scale(-1 1)"/></g><use xlink:href="#c" transform="rotate(72)"/><use xlink:href="#c" transform="rotate(-72)"/><use xlink:href="#c" transform="rotate(144)"/><use xlink:href="#c" transform="rotate(216)"/></g><g id="m"><clipPath id="e"><path d="M-31.5 0v-70h63V0zM0-47v12h31.5v-12z"/></clipPath><use xlink:href="#d" clip-path="url(#e)"/><path d="M5-35h26.5v10H5z"/><path d="M21.5-35h10V0h-10z"/></g><g id="h"><use xlink:href="#f"/><path d="M28 0c0-10 0-32-15-32H-6c22 0 22 22 22 32"/></g></defs><rect y="-50%" x="-50%" height="100%" fill="#009b3a" width="100%"/><path d="M-1743 0L0 1113 1743 0 0-1113z" fill="#fedf00"/><circle r="735" fill="#002776"/><clipPath id="g"><circle r="735"/></clipPath><path fill="#fff" d="M-2205 1470a1785 1785 0 013570 0h-105a1680 1680 0 10-3360 0z" clip-path="url(#g)"/><g transform="translate(-420 1470)" fill="#009b3a"><use y="-1697.5" xlink:href="#d" transform="rotate(-7)"/><use y="-1697.5" xlink:href="#h" transform="rotate(-4)"/><use y="-1697.5" xlink:href="#i" transform="rotate(-1)"/><use y="-1697.5" xlink:href="#j" transform="rotate(2)"/><use y="-1697.5" xlink:href="#k" transform="rotate(5)"/><use y="-1697.5" xlink:href="#l" transform="rotate(9.75)"/><use y="-1697.5" xlink:href="#f" transform="rotate(14.5)"/><use y="-1697.5" xlink:href="#h" transform="rotate(17.5)"/><use y="-1697.5" xlink:href="#d" transform="rotate(20.5)"/><use y="-1697.5" xlink:href="#m" transform="rotate(23.5)"/><use y="-1697.5" xlink:href="#h" transform="rotate(26.5)"/><use y="-1697.5" xlink:href="#j" transform="rotate(29.5)"/><use y="-1697.5" xlink:href="#n" transform="rotate(32.5)"/><use y="-1697.5" xlink:href="#n" transform="rotate(35.5)"/><use y="-1697.5" xlink:href="#d" transform="rotate(38.5)"/></g><use y="-132" x="-600" xlink:href="#o"/><use y="177" x="-535" xlink:href="#o"/><use y="243" x="-625" xlink:href="#p"/><use y="132" x="-463" xlink:href="#q"/><use y="250" x="-382" xlink:href="#p"/><use y="323" x="-404" xlink:href="#r"/><use y="-228" x="228" xlink:href="#o"/><use y="258" x="515" xlink:href="#o"/><use y="265" x="617" xlink:href="#r"/><use y="323" x="545" xlink:href="#p"/><use y="477" x="368" xlink:href="#p"/><use y="551" x="367" xlink:href="#r"/><use y="419" x="441" xlink:href="#r"/><use y="382" x="500" xlink:href="#p"/><use y="405" x="365" xlink:href="#r"/><use y="30" x="-280" xlink:href="#p"/><use y="-37" x="200" xlink:href="#r"/><use y="330" xlink:href="#o"/><use y="184" x="85" xlink:href="#p"/><use y="118" xlink:href="#p"/><use y="184" x="-74" xlink:href="#r"/><use y="235" x="-37" xlink:href="#q"/><use y="495" x="220" xlink:href="#p"/><use y="430" x="283" xlink:href="#r"/><use y="412" x="162" xlink:href="#r"/><use y="390" x="-295" xlink:href="#o"/><use y="575" xlink:href="#s"/></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 720 480" style="enable-background:new 0 0 720 480;" xml:space="preserve">
+<g>
+	<rect style="fill:#009B3A;" width="720" height="480"/>
+	<path style="fill:#FEDF00;" d="M61.2,240L360,421.7L658.8,240L360,58.3L61.2,240z"/>
+	<ellipse style="fill:#002776;" cx="360" cy="240" rx="126" ry="120"/>
+	<g>
+		<defs>
+			<ellipse id="SVGID_1_" cx="360" cy="240" rx="126" ry="120"/>
+		</defs>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+		</clipPath>
+		<path style="clip-path:url(#SVGID_2_);fill:none;" d="M360,497.5"/>
+	</g>
+	<g transform="translate(-420 1470)">
+		<g transform="rotate(-7)">
+			<path id="d" style="fill:none;" d="M672.5-1265.1"/>
+		</g>
+		<g transform="rotate(-4)">
+			<g id="h">
+				<g>
+					<path id="f" style="fill:none;" d="M687.7-1266.5"/>
+				</g>
+				<path style="fill:#009B3A;" d="M692.5-1266.8c-0.1-1.6-0.4-5.2-2.9-5l-3.2,0.2c3.8-0.3,4,3.3,4.1,5"/>
+			</g>
+		</g>
+		<g transform="rotate(-1)">
+			<path id="i" style="fill:#009B3A;" d="M702.9-1267.1"/>
+		</g>
+		<g transform="rotate(2)">
+			<path id="j" style="fill:#009B3A;" d="M712.8-1267.2l10.8,0.4l0.1-2.1l-8.7-0.3l0.1-2.9l6.9,0.2l0.1-2l-6.9-0.2l0.1-2.3l8.2,0.3
+				l0.1-2.1l-10.3-0.3L712.8-1267.2z"/>
+		</g>
+		<g transform="rotate(5)">
+			<path id="k" style="fill:#009B3A;" d="M728-1266.5l2,0.2l0.7-7.8l1.7,8l1.9,0.2l3.1-7.6l-0.7,7.8l2,0.2l1-11.4l-3-0.2l-3.1,7.6
+				l-1.7-8l-3-0.2L728-1266.5z"/>
+		</g>
+		<g transform="rotate(9.75)">
+			<path id="l" style="fill:#009B3A;" d="M752.8-1263.9l8.9,1.5l0.3-1.9l-6.8-1.1l0.5-2.6l5.6,0.9l0.3-1.9l-5.6-0.9l0.3-1.8l6.6,1.1
+				l0.3-1.9l-8.7-1.4L752.8-1263.9z"/>
+		</g>
+		<g transform="rotate(14.5)">
+			<path id="f_1_" style="fill:#009B3A;" d="M780.9-1258.3"/>
+		</g>
+		<g transform="rotate(17.5)">
+			<g id="h_1_">
+				<g>
+					<path id="f_2_" style="fill:#009B3A;" d="M795.5-1254.3"/>
+				</g>
+				<path style="fill:#009B3A;" d="M800.1-1252.9c0.5-1.6,1.6-5-0.8-5.7l-3.1-0.9c3.6,1.1,2.5,4.5,1.9,6.1"/>
+			</g>
+		</g>
+		<g transform="rotate(20.5)">
+			<path id="d_1_" style="fill:#009B3A;" d="M809.9-1249.6"/>
+		</g>
+		<g transform="rotate(23.5)">
+			<g id="m">
+				<g>
+					<defs>
+						<path id="SVGID_3_" d="M819.1-1246.2l4.8-10.5l9.9,4.1l-4.8,10.5L819.1-1246.2z M827.2-1251.2l-0.8,1.8l5,2.1l0.8-1.8
+							L827.2-1251.2z"/>
+					</defs>
+					<clipPath id="SVGID_4_">
+						<use xlink:href="#SVGID_3_"  style="overflow:visible;"/>
+					</clipPath>
+					<g style="clip-path:url(#SVGID_4_);">
+						<path id="d_2_" style="fill:none;" d="M832.2-1249.1"/>
+					</g>
+				</g>
+				<path style="fill:#009B3A;" d="M827.2-1249.1l4.2,1.7l-0.7,1.5l-4.2-1.7L827.2-1249.1z"/>
+				<path style="fill:#009B3A;" d="M829.8-1248l1.6,0.7l-2.4,5.2l-1.6-0.7L829.8-1248z"/>
+			</g>
+		</g>
+		<g transform="rotate(26.5)">
+			<g id="h_2_">
+				<g>
+					<path id="f_3_" style="fill:#009B3A;" d="M837.8-1238"/>
+				</g>
+				<path style="fill:#009B3A;" d="M842.1-1236c0.8-1.5,2.4-4.7,0.1-5.8l-2.9-1.4c3.4,1.6,1.7,4.8,0.9,6.3"/>
+			</g>
+		</g>
+		<g transform="rotate(29.5)">
+			<path id="j_1_" style="fill:#009B3A;" d="M846.6-1233.7l9.4,5.1l1.1-1.8l-7.6-4.1l1.5-2.6l6,3.2l1-1.7l-6-3.2l1.2-2l7.2,3.9
+				l1.1-1.8l-9-4.8L846.6-1233.7z"/>
+		</g>
+		<g transform="rotate(32.5)">
+			<path id="n" style="fill:#009B3A;" d="M864.1-1228.2c-0.6,1,0,2,1.5,2.9c1.4,0.9,2.4,0.8,2.8,0.2c1.3-2-6.3-4.8-3.9-8.2
+				c2-2.9,5.5-0.7,6.8,0.1c1.3,0.8,3.4,2.8,1.8,5.2l-2.2-1.3c0.7-1-0.1-2-1.2-2.7c-1.1-0.7-2-1-2.7,0c-1.1,1.6,6.3,4.6,4,8
+				c-1.7,2.5-4.6,1.4-6.6,0.2c-1.7-1-4.1-3.4-2.5-5.8L864.1-1228.2z"/>
+		</g>
+		<g transform="rotate(35.5)">
+			<path id="n_1_" style="fill:#009B3A;" d="M877-1220c-0.7,0.9-0.1,2,1.3,3s2.4,1,2.8,0.4c1.4-1.9-6-5.1-3.5-8.4
+				c2.2-2.8,5.5-0.4,6.8,0.5c1.3,0.9,3.2,3,1.5,5.3l-2.1-1.4c0.7-1,0-2-1.1-2.8c-1.1-0.7-2-1.1-2.7-0.1c-1.2,1.5,6.1,4.9,3.6,8.2
+				c-1.8,2.4-4.7,1.2-6.6-0.1c-1.6-1.1-4-3.6-2.2-5.9L877-1220z"/>
+		</g>
+		<g transform="rotate(38.5)">
+			<path id="d_3_" style="fill:#009B3A;" d="M889.2-1206.9"/>
+		</g>
+	</g>
+	<g>
+		<g id="o" transform="scale(31.5)">
+			<g id="a">
+				<g id="c">
+					<path id="b" style="fill:#FFFFFF;" d="M257.1,213.3l-1.7,4.9l2.6,0.8"/>
+					<g transform="scale(-1 1)">
+						<path id="b_1_" style="fill:#FFFFFF;" d="M257.1,213.3l1.7,4.9l-2.6,0.8"/>
+					</g>
+				</g>
+				<g transform="rotate(72)">
+					<g id="c_1_">
+						<path id="b_2_" style="fill:#FFFFFF;" d="M262.3,216.9h-5.4v2.6"/>
+						<g transform="scale(-1 1)">
+							<path id="b_3_" style="fill:#FFFFFF;" d="M262.3,216.9l-4.4,3l-1.6-2.1"/>
+						</g>
+					</g>
+				</g>
+				<g transform="rotate(-72)">
+					<g id="c_2_">
+						<path id="b_4_" style="fill:#FFFFFF;" d="M252,216.9l4.4,3l1.6-2.1"/>
+						<g transform="scale(-1 1)">
+							<path id="b_5_" style="fill:#FFFFFF;" d="M252,216.9h5.4v2.6"/>
+						</g>
+					</g>
+				</g>
+				<g transform="rotate(144)">
+					<g id="c_3_">
+						<path id="b_6_" style="fill:#FFFFFF;" d="M260.3,222.6l-1.7-4.9l-2.6,0.8"/>
+						<g transform="scale(-1 1)">
+							<path id="b_7_" style="fill:#FFFFFF;" d="M260.3,222.6l-4.4-3l1.6-2.1"/>
+						</g>
+					</g>
+				</g>
+				<g transform="rotate(216)">
+					<g id="c_4_">
+						<path id="b_8_" style="fill:#FFFFFF;" d="M254,222.6l4.4-3l-1.6-2.1"/>
+						<g transform="scale(-1 1)">
+							<path id="b_9_" style="fill:#FFFFFF;" d="M254,222.6l1.7-4.9l2.6,0.8"/>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g id="o_1_" transform="scale(31.5)">
+			<g id="a_1_">
+				<g id="c_5_">
+					<path id="b_10_" style="fill:#FFFFFF;" d="M268.3,263.8l-1.7,4.9l2.6,0.8"/>
+					<g transform="scale(-1 1)">
+						<path id="b_11_" style="fill:#FFFFFF;" d="M268.3,263.8l1.7,4.9l-2.6,0.8"/>
+					</g>
+				</g>
+				<g transform="rotate(72)">
+					<g id="c_6_">
+						<path id="b_12_" style="fill:#FFFFFF;" d="M273.4,267.3H268v2.6"/>
+						<g transform="scale(-1 1)">
+							<path id="b_13_" style="fill:#FFFFFF;" d="M273.4,267.3l-4.4,3l-1.6-2.1"/>
+						</g>
+					</g>
+				</g>
+				<g transform="rotate(-72)">
+					<g id="c_7_">
+						<path id="b_14_" style="fill:#FFFFFF;" d="M263.1,267.3l4.4,3l1.6-2.1"/>
+						<g transform="scale(-1 1)">
+							<path id="b_15_" style="fill:#FFFFFF;" d="M263.1,267.3h5.4v2.6"/>
+						</g>
+					</g>
+				</g>
+				<g transform="rotate(144)">
+					<g id="c_8_">
+						<path id="b_16_" style="fill:#FFFFFF;" d="M271.5,273.1l-1.7-4.9l-2.6,0.8"/>
+						<g transform="scale(-1 1)">
+							<path id="b_17_" style="fill:#FFFFFF;" d="M271.5,273.1l-4.4-3l1.6-2.1"/>
+						</g>
+					</g>
+				</g>
+				<g transform="rotate(216)">
+					<g id="c_9_">
+						<path id="b_18_" style="fill:#FFFFFF;" d="M265.1,273.1l4.4-3l-1.6-2.1"/>
+						<g transform="scale(-1 1)">
+							<path id="b_19_" style="fill:#FFFFFF;" d="M265.1,273.1l1.7-4.9l2.6,0.8"/>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g id="p" transform="scale(26.25)">
+			<g id="a_2_">
+				<g id="c_10_">
+					<path id="b_20_" style="fill:#FFFFFF;" d="M252.9,275.4l-1.4,4.1l2.1,0.7"/>
+					<g transform="scale(-1 1)">
+						<path id="b_21_" style="fill:#FFFFFF;" d="M252.9,275.4l1.4,4.1l-2.1,0.7"/>
+					</g>
+				</g>
+				<g transform="rotate(72)">
+					<g id="c_11_">
+						<path id="b_22_" style="fill:#FFFFFF;" d="M257.1,278.3h-4.5v2.1"/>
+						<g transform="scale(-1 1)">
+							<path id="b_23_" style="fill:#FFFFFF;" d="M257.1,278.3l-3.6,2.5l-1.3-1.7"/>
+						</g>
+					</g>
+				</g>
+				<g transform="rotate(-72)">
+					<g id="c_12_">
+						<path id="b_24_" style="fill:#FFFFFF;" d="M248.6,278.3l3.6,2.5l1.3-1.7"/>
+						<g transform="scale(-1 1)">
+							<path id="b_25_" style="fill:#FFFFFF;" d="M248.6,278.3h4.5v2.1"/>
+						</g>
+					</g>
+				</g>
+				<g transform="rotate(144)">
+					<g id="c_13_">
+						<path id="b_26_" style="fill:#FFFFFF;" d="M255.5,283.1l-1.4-4.1l-2.1,0.7"/>
+						<g transform="scale(-1 1)">
+							<path id="b_27_" style="fill:#FFFFFF;" d="M255.5,283.1l-3.6-2.5l1.3-1.7"/>
+						</g>
+					</g>
+				</g>
+				<g transform="rotate(216)">
+					<g id="c_14_">
+						<path id="b_28_" style="fill:#FFFFFF;" d="M250.2,283.1l3.6-2.5l-1.3-1.7"/>
+						<g transform="scale(-1 1)">
+							<path id="b_29_" style="fill:#FFFFFF;" d="M250.2,283.1l1.4-4.1l2.1,0.7"/>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g id="q" transform="scale(15)">
+			<g id="a_3_">
+				<g id="c_15_">
+					<path id="b_30_" style="fill:#FFFFFF;" d="M280.6,259.1l-0.8,2.3l1.2,0.4"/>
+					<g transform="scale(-1 1)">
+						<path id="b_31_" style="fill:#FFFFFF;" d="M280.6,259.1l0.8,2.3l-1.2,0.4"/>
+					</g>
+				</g>
+				<g transform="rotate(72)">
+					<g id="c_16_">
+						<path id="b_32_" style="fill:#FFFFFF;" d="M283.1,260.8h-2.6v1.2"/>
+						<g transform="scale(-1 1)">
+							<path id="b_33_" style="fill:#FFFFFF;" d="M283.1,260.8l-2.1,1.4l-0.8-1"/>
+						</g>
+					</g>
+				</g>
+				<g transform="rotate(-72)">
+					<g id="c_17_">
+						<path id="b_34_" style="fill:#FFFFFF;" d="M278.2,260.8l2.1,1.4l0.8-1"/>
+						<g transform="scale(-1 1)">
+							<path id="b_35_" style="fill:#FFFFFF;" d="M278.2,260.8h2.6v1.2"/>
+						</g>
+					</g>
+				</g>
+				<g transform="rotate(144)">
+					<g id="c_18_">
+						<path id="b_36_" style="fill:#FFFFFF;" d="M282.1,263.5l-0.8-2.3l-1.2,0.4"/>
+						<g transform="scale(-1 1)">
+							<path id="b_37_" style="fill:#FFFFFF;" d="M282.1,263.5l-2.1-1.4l0.8-1"/>
+						</g>
+					</g>
+				</g>
+				<g transform="rotate(216)">
+					<g id="c_19_">
+						<path id="b_38_" style="fill:#FFFFFF;" d="M279.1,263.5l2.1-1.4l-0.8-1"/>
+						<g transform="scale(-1 1)">
+							<path id="b_39_" style="fill:#FFFFFF;" d="M279.1,263.5l0.8-2.3l1.2,0.4"/>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g id="p_1_" transform="scale(26.25)">
+			<g id="a_4_">
+				<g id="c_20_">
+					<path id="b_40_" style="fill:#FFFFFF;" d="M294.5,276.5l-1.4,4.1l2.1,0.7"/>
+					<g transform="scale(-1 1)">
+						<path id="b_41_" style="fill:#FFFFFF;" d="M294.5,276.5l1.4,4.1l-2.1,0.7"/>
+					</g>
+				</g>
+				<g transform="rotate(72)">
+					<g id="c_21_">
+						<path id="b_42_" style="fill:#FFFFFF;" d="M298.8,279.5h-4.5v2.1"/>
+						<g transform="scale(-1 1)">
+							<path id="b_43_" style="fill:#FFFFFF;" d="M298.8,279.5l-3.6,2.5l-1.3-1.7"/>
+						</g>
+					</g>
+				</g>
+				<g transform="rotate(-72)">
+					<g id="c_22_">
+						<path id="b_44_" style="fill:#FFFFFF;" d="M290.2,279.5l3.6,2.5l1.3-1.7"/>
+						<g transform="scale(-1 1)">
+							<path id="b_45_" style="fill:#FFFFFF;" d="M290.2,279.5h4.5v2.1"/>
+						</g>
+					</g>
+				</g>
+				<g transform="rotate(144)">
+					<g id="c_23_">
+						<path id="b_46_" style="fill:#FFFFFF;" d="M297.2,284.3l-1.4-4.1l-2.1,0.7"/>
+						<g transform="scale(-1 1)">
+							<path id="b_47_" style="fill:#FFFFFF;" d="M297.2,284.3l-3.6-2.5l1.3-1.7"/>
+						</g>
+					</g>
+				</g>
+				<g transform="rotate(216)">
+					<g id="c_24_">
+						<path id="b_48_" style="fill:#FFFFFF;" d="M291.9,284.3l3.6-2.5l-1.3-1.7"/>
+						<g transform="scale(-1 1)">
+							<path id="b_49_" style="fill:#FFFFFF;" d="M291.9,284.3l1.4-4.1l2.1,0.7"/>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g id="r" transform="scale(21)">
+			<g id="a_5_">
+				<g id="c_25_">
+					<path id="b_50_" style="fill:#FFFFFF;" d="M290.7,289.3l-1.1,3.3l1.7,0.5"/>
+					<g transform="scale(-1 1)">
+						<path id="b_51_" style="fill:#FFFFFF;" d="M290.7,289.3l1.1,3.3l-1.7,0.5"/>
+					</g>
+				</g>
+				<g transform="rotate(72)">
+					<g id="c_26_">
+						<path id="b_52_" style="fill:#FFFFFF;" d="M294.2,291.7h-3.6v1.7"/>
+						<g transform="scale(-1 1)">
+							<path id="b_53_" style="fill:#FFFFFF;" d="M294.2,291.7l-2.9,2l-1.1-1.4"/>
+						</g>
+					</g>
+				</g>
+				<g transform="rotate(-72)">
+					<g id="c_27_">
+						<path id="b_54_" style="fill:#FFFFFF;" d="M287.3,291.7l2.9,2l1.1-1.4"/>
+						<g transform="scale(-1 1)">
+							<path id="b_55_" style="fill:#FFFFFF;" d="M287.3,291.7h3.6v1.7"/>
+						</g>
+					</g>
+				</g>
+				<g transform="rotate(144)">
+					<g id="c_28_">
+						<path id="b_56_" style="fill:#FFFFFF;" d="M292.9,295.5l-1.1-3.3l-1.7,0.5"/>
+						<g transform="scale(-1 1)">
+							<path id="b_57_" style="fill:#FFFFFF;" d="M292.9,295.5l-2.9-2l1.1-1.4"/>
+						</g>
+					</g>
+				</g>
+				<g transform="rotate(216)">
+					<g id="c_29_">
+						<path id="b_58_" style="fill:#FFFFFF;" d="M288.6,295.5l2.9-2l-1.1-1.4"/>
+						<g transform="scale(-1 1)">
+							<path id="b_59_" style="fill:#FFFFFF;" d="M288.6,295.5l1.1-3.3l1.7,0.5"/>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g id="o_2_" transform="scale(31.5)">
+			<g id="a_6_">
+				<g id="c_30_">
+					<path id="b_60_" style="fill:#FFFFFF;" d="M399.1,197.6l-1.7,4.9l2.6,0.8"/>
+					<g transform="scale(-1 1)">
+						<path id="b_61_" style="fill:#FFFFFF;" d="M399.1,197.6l1.7,4.9l-2.6,0.8"/>
+					</g>
+				</g>
+				<g transform="rotate(72)">
+					<g id="c_31_">
+						<path id="b_62_" style="fill:#FFFFFF;" d="M404.2,201.2h-5.4v2.6"/>
+						<g transform="scale(-1 1)">
+							<path id="b_63_" style="fill:#FFFFFF;" d="M404.2,201.2l-4.4,3l-1.6-2.1"/>
+						</g>
+					</g>
+				</g>
+				<g transform="rotate(-72)">
+					<g id="c_32_">
+						<path id="b_64_" style="fill:#FFFFFF;" d="M393.9,201.2l4.4,3l1.6-2.1"/>
+						<g transform="scale(-1 1)">
+							<path id="b_65_" style="fill:#FFFFFF;" d="M393.9,201.2h5.4v2.6"/>
+						</g>
+					</g>
+				</g>
+				<g transform="rotate(144)">
+					<g id="c_33_">
+						<path id="b_66_" style="fill:#FFFFFF;" d="M402.3,206.9l-1.7-4.9l-2.6,0.8"/>
+						<g transform="scale(-1 1)">
+							<path id="b_67_" style="fill:#FFFFFF;" d="M402.3,206.9l-4.4-3l1.6-2.1"/>
+						</g>
+					</g>
+				</g>
+				<g transform="rotate(216)">
+					<g id="c_34_">
+						<path id="b_68_" style="fill:#FFFFFF;" d="M395.9,206.9l4.4-3l-1.6-2.1"/>
+						<g transform="scale(-1 1)">
+							<path id="b_69_" style="fill:#FFFFFF;" d="M395.9,206.9l1.7-4.9l2.6,0.8"/>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g id="o_3_" transform="scale(31.5)">
+			<g id="a_7_">
+				<g id="c_35_">
+					<path id="b_70_" style="fill:#FFFFFF;" d="M448.3,277l-1.7,4.9l2.6,0.8"/>
+					<g transform="scale(-1 1)">
+						<path id="b_71_" style="fill:#FFFFFF;" d="M448.3,277l1.7,4.9l-2.6,0.8"/>
+					</g>
+				</g>
+				<g transform="rotate(72)">
+					<g id="c_36_">
+						<path id="b_72_" style="fill:#FFFFFF;" d="M453.4,280.5H448v2.6"/>
+						<g transform="scale(-1 1)">
+							<path id="b_73_" style="fill:#FFFFFF;" d="M453.4,280.5l-4.4,3l-1.6-2.1"/>
+						</g>
+					</g>
+				</g>
+				<g transform="rotate(-72)">
+					<g id="c_37_">
+						<path id="b_74_" style="fill:#FFFFFF;" d="M443.1,280.5l4.4,3l1.6-2.1"/>
+						<g transform="scale(-1 1)">
+							<path id="b_75_" style="fill:#FFFFFF;" d="M443.1,280.5h5.4v2.6"/>
+						</g>
+					</g>
+				</g>
+				<g transform="rotate(144)">
+					<g id="c_38_">
+						<path id="b_76_" style="fill:#FFFFFF;" d="M451.5,286.3l-1.7-4.9l-2.6,0.8"/>
+						<g transform="scale(-1 1)">
+							<path id="b_77_" style="fill:#FFFFFF;" d="M451.5,286.3l-4.4-3l1.6-2.1"/>
+						</g>
+					</g>
+				</g>
+				<g transform="rotate(216)">
+					<g id="c_39_">
+						<path id="b_78_" style="fill:#FFFFFF;" d="M445.1,286.3l4.4-3l-1.6-2.1"/>
+						<g transform="scale(-1 1)">
+							<path id="b_79_" style="fill:#FFFFFF;" d="M445.1,286.3l1.7-4.9l2.6,0.8"/>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g id="r_1_" transform="scale(21)">
+			<g id="a_8_">
+				<g id="c_40_">
+					<path id="b_80_" style="fill:#FFFFFF;" d="M465.8,279.8l-1.1,3.3l1.7,0.5"/>
+					<g transform="scale(-1 1)">
+						<path id="b_81_" style="fill:#FFFFFF;" d="M465.8,279.8l1.1,3.3l-1.7,0.5"/>
+					</g>
+				</g>
+				<g transform="rotate(72)">
+					<g id="c_41_">
+						<path id="b_82_" style="fill:#FFFFFF;" d="M469.2,282.2h-3.6v1.7"/>
+						<g transform="scale(-1 1)">
+							<path id="b_83_" style="fill:#FFFFFF;" d="M469.2,282.2l-2.9,2l-1.1-1.4"/>
+						</g>
+					</g>
+				</g>
+				<g transform="rotate(-72)">
+					<g id="c_42_">
+						<path id="b_84_" style="fill:#FFFFFF;" d="M462.3,282.2l2.9,2l1.1-1.4"/>
+						<g transform="scale(-1 1)">
+							<path id="b_85_" style="fill:#FFFFFF;" d="M462.3,282.2h3.6v1.7"/>
+						</g>
+					</g>
+				</g>
+				<g transform="rotate(144)">
+					<g id="c_43_">
+						<path id="b_86_" style="fill:#FFFFFF;" d="M467.9,286l-1.1-3.3l-1.7,0.5"/>
+						<g transform="scale(-1 1)">
+							<path id="b_87_" style="fill:#FFFFFF;" d="M467.9,286l-2.9-2l1.1-1.4"/>
+						</g>
+					</g>
+				</g>
+				<g transform="rotate(216)">
+					<g id="c_44_">
+						<path id="b_88_" style="fill:#FFFFFF;" d="M463.7,286l2.9-2l-1.1-1.4"/>
+						<g transform="scale(-1 1)">
+							<path id="b_89_" style="fill:#FFFFFF;" d="M463.7,286l1.1-3.3l1.7,0.5"/>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g id="p_2_" transform="scale(26.25)">
+			<g id="a_9_">
+				<g id="c_45_">
+					<path id="b_90_" style="fill:#FFFFFF;" d="M453.4,288.4l-1.4,4.1l2.1,0.7"/>
+					<g transform="scale(-1 1)">
+						<path id="b_91_" style="fill:#FFFFFF;" d="M453.4,288.4l1.4,4.1l-2.1,0.7"/>
+					</g>
+				</g>
+				<g transform="rotate(72)">
+					<g id="c_46_">
+						<path id="b_92_" style="fill:#FFFFFF;" d="M457.7,291.4h-4.5v2.1"/>
+						<g transform="scale(-1 1)">
+							<path id="b_93_" style="fill:#FFFFFF;" d="M457.7,291.4l-3.6,2.5l-1.3-1.7"/>
+						</g>
+					</g>
+				</g>
+				<g transform="rotate(-72)">
+					<g id="c_47_">
+						<path id="b_94_" style="fill:#FFFFFF;" d="M449.1,291.4l3.6,2.5l1.3-1.7"/>
+						<g transform="scale(-1 1)">
+							<path id="b_95_" style="fill:#FFFFFF;" d="M449.1,291.4h4.5v2.1"/>
+						</g>
+					</g>
+				</g>
+				<g transform="rotate(144)">
+					<g id="c_48_">
+						<path id="b_96_" style="fill:#FFFFFF;" d="M456.1,296.2l-1.4-4.1l-2.1,0.7"/>
+						<g transform="scale(-1 1)">
+							<path id="b_97_" style="fill:#FFFFFF;" d="M456.1,296.2l-3.6-2.5l1.3-1.7"/>
+						</g>
+					</g>
+				</g>
+				<g transform="rotate(216)">
+					<g id="c_49_">
+						<path id="b_98_" style="fill:#FFFFFF;" d="M450.8,296.2l3.6-2.5l-1.3-1.7"/>
+						<g transform="scale(-1 1)">
+							<path id="b_99_" style="fill:#FFFFFF;" d="M450.8,296.2l1.4-4.1l2.1,0.7"/>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g id="p_3_" transform="scale(26.25)">
+			<g id="a_10_">
+				<g id="c_50_">
+					<path id="b_100_" style="fill:#FFFFFF;" d="M423.1,313.6l-1.4,4.1l2.1,0.7"/>
+					<g transform="scale(-1 1)">
+						<path id="b_101_" style="fill:#FFFFFF;" d="M423.1,313.6l1.4,4.1l-2.1,0.7"/>
+					</g>
+				</g>
+				<g transform="rotate(72)">
+					<g id="c_51_">
+						<path id="b_102_" style="fill:#FFFFFF;" d="M427.4,316.6h-4.5v2.1"/>
+						<g transform="scale(-1 1)">
+							<path id="b_103_" style="fill:#FFFFFF;" d="M427.4,316.6l-3.6,2.5l-1.3-1.7"/>
+						</g>
+					</g>
+				</g>
+				<g transform="rotate(-72)">
+					<g id="c_52_">
+						<path id="b_104_" style="fill:#FFFFFF;" d="M418.8,316.6l3.6,2.5l1.3-1.7"/>
+						<g transform="scale(-1 1)">
+							<path id="b_105_" style="fill:#FFFFFF;" d="M418.8,316.6h4.5v2.1"/>
+						</g>
+					</g>
+				</g>
+				<g transform="rotate(144)">
+					<g id="c_53_">
+						<path id="b_106_" style="fill:#FFFFFF;" d="M425.7,321.3l-1.4-4.1l-2.1,0.7"/>
+						<g transform="scale(-1 1)">
+							<path id="b_107_" style="fill:#FFFFFF;" d="M425.7,321.3l-3.6-2.5l1.3-1.7"/>
+						</g>
+					</g>
+				</g>
+				<g transform="rotate(216)">
+					<g id="c_54_">
+						<path id="b_108_" style="fill:#FFFFFF;" d="M420.4,321.3l3.6-2.5l-1.3-1.7"/>
+						<g transform="scale(-1 1)">
+							<path id="b_109_" style="fill:#FFFFFF;" d="M420.4,321.3l1.4-4.1l2.1,0.7"/>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g id="r_2_" transform="scale(21)">
+			<g id="a_11_">
+				<g id="c_55_">
+					<path id="b_110_" style="fill:#FFFFFF;" d="M422.9,326.5l-1.1,3.3l1.7,0.5"/>
+					<g transform="scale(-1 1)">
+						<path id="b_111_" style="fill:#FFFFFF;" d="M422.9,326.5l1.1,3.3l-1.7,0.5"/>
+					</g>
+				</g>
+				<g transform="rotate(72)">
+					<g id="c_56_">
+						<path id="b_112_" style="fill:#FFFFFF;" d="M426.3,328.9h-3.6v1.7"/>
+						<g transform="scale(-1 1)">
+							<path id="b_113_" style="fill:#FFFFFF;" d="M426.3,328.9l-2.9,2l-1.1-1.4"/>
+						</g>
+					</g>
+				</g>
+				<g transform="rotate(-72)">
+					<g id="c_57_">
+						<path id="b_114_" style="fill:#FFFFFF;" d="M419.5,328.9l2.9,2l1.1-1.4"/>
+						<g transform="scale(-1 1)">
+							<path id="b_115_" style="fill:#FFFFFF;" d="M419.5,328.9h3.6v1.7"/>
+						</g>
+					</g>
+				</g>
+				<g transform="rotate(144)">
+					<g id="c_58_">
+						<path id="b_116_" style="fill:#FFFFFF;" d="M425,332.7l-1.1-3.3l-1.7,0.5"/>
+						<g transform="scale(-1 1)">
+							<path id="b_117_" style="fill:#FFFFFF;" d="M425,332.7l-2.9-2l1.1-1.4"/>
+						</g>
+					</g>
+				</g>
+				<g transform="rotate(216)">
+					<g id="c_59_">
+						<path id="b_118_" style="fill:#FFFFFF;" d="M420.8,332.7l2.9-2l-1.1-1.4"/>
+						<g transform="scale(-1 1)">
+							<path id="b_119_" style="fill:#FFFFFF;" d="M420.8,332.7l1.1-3.3l1.7,0.5"/>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g id="r_3_" transform="scale(21)">
+			<g id="a_12_">
+				<g id="c_60_">
+					<path id="b_120_" style="fill:#FFFFFF;" d="M435.6,305l-1.1,3.3l1.7,0.5"/>
+					<g transform="scale(-1 1)">
+						<path id="b_121_" style="fill:#FFFFFF;" d="M435.6,305l1.1,3.3l-1.7,0.5"/>
+					</g>
+				</g>
+				<g transform="rotate(72)">
+					<g id="c_61_">
+						<path id="b_122_" style="fill:#FFFFFF;" d="M439,307.3h-3.6v1.7"/>
+						<g transform="scale(-1 1)">
+							<path id="b_123_" style="fill:#FFFFFF;" d="M439,307.3l-2.9,2l-1.1-1.4"/>
+						</g>
+					</g>
+				</g>
+				<g transform="rotate(-72)">
+					<g id="c_62_">
+						<path id="b_124_" style="fill:#FFFFFF;" d="M432.2,307.3l2.9,2l1.1-1.4"/>
+						<g transform="scale(-1 1)">
+							<path id="b_125_" style="fill:#FFFFFF;" d="M432.2,307.3h3.6v1.7"/>
+						</g>
+					</g>
+				</g>
+				<g transform="rotate(144)">
+					<g id="c_63_">
+						<path id="b_126_" style="fill:#FFFFFF;" d="M437.7,311.2l-1.1-3.3l-1.7,0.5"/>
+						<g transform="scale(-1 1)">
+							<path id="b_127_" style="fill:#FFFFFF;" d="M437.7,311.2l-2.9-2l1.1-1.4"/>
+						</g>
+					</g>
+				</g>
+				<g transform="rotate(216)">
+					<g id="c_64_">
+						<path id="b_128_" style="fill:#FFFFFF;" d="M433.5,311.2l2.9-2l-1.1-1.4"/>
+						<g transform="scale(-1 1)">
+							<path id="b_129_" style="fill:#FFFFFF;" d="M433.5,311.2l1.1-3.3l1.7,0.5"/>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g id="p_4_" transform="scale(26.25)">
+			<g id="a_13_">
+				<g id="c_65_">
+					<path id="b_130_" style="fill:#FFFFFF;" d="M445.7,298.1l-1.4,4.1l2.1,0.7"/>
+					<g transform="scale(-1 1)">
+						<path id="b_131_" style="fill:#FFFFFF;" d="M445.7,298.1l1.4,4.1l-2.1,0.7"/>
+					</g>
+				</g>
+				<g transform="rotate(72)">
+					<g id="c_66_">
+						<path id="b_132_" style="fill:#FFFFFF;" d="M450,301h-4.5v2.1"/>
+						<g transform="scale(-1 1)">
+							<path id="b_133_" style="fill:#FFFFFF;" d="M450,301l-3.6,2.5l-1.3-1.7"/>
+						</g>
+					</g>
+				</g>
+				<g transform="rotate(-72)">
+					<g id="c_67_">
+						<path id="b_134_" style="fill:#FFFFFF;" d="M441.4,301l3.6,2.5l1.3-1.7"/>
+						<g transform="scale(-1 1)">
+							<path id="b_135_" style="fill:#FFFFFF;" d="M441.4,301h4.5v2.1"/>
+						</g>
+					</g>
+				</g>
+				<g transform="rotate(144)">
+					<g id="c_68_">
+						<path id="b_136_" style="fill:#FFFFFF;" d="M448.4,305.8l-1.4-4.1l-2.1,0.7"/>
+						<g transform="scale(-1 1)">
+							<path id="b_137_" style="fill:#FFFFFF;" d="M448.4,305.8l-3.6-2.5l1.3-1.7"/>
+						</g>
+					</g>
+				</g>
+				<g transform="rotate(216)">
+					<g id="c_69_">
+						<path id="b_138_" style="fill:#FFFFFF;" d="M443.1,305.8l3.6-2.5l-1.3-1.7"/>
+						<g transform="scale(-1 1)">
+							<path id="b_139_" style="fill:#FFFFFF;" d="M443.1,305.8l1.4-4.1l2.1,0.7"/>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g id="r_4_" transform="scale(21)">
+			<g id="a_14_">
+				<g id="c_70_">
+					<path id="b_140_" style="fill:#FFFFFF;" d="M422.6,302.7l-1.1,3.3l1.7,0.5"/>
+					<g transform="scale(-1 1)">
+						<path id="b_141_" style="fill:#FFFFFF;" d="M422.6,302.7l1.1,3.3l-1.7,0.5"/>
+					</g>
+				</g>
+				<g transform="rotate(72)">
+					<g id="c_71_">
+						<path id="b_142_" style="fill:#FFFFFF;" d="M426,305.1h-3.6v1.7"/>
+						<g transform="scale(-1 1)">
+							<path id="b_143_" style="fill:#FFFFFF;" d="M426,305.1l-2.9,2l-1.1-1.4"/>
+						</g>
+					</g>
+				</g>
+				<g transform="rotate(-72)">
+					<g id="c_72_">
+						<path id="b_144_" style="fill:#FFFFFF;" d="M419.1,305.1l2.9,2l1.1-1.4"/>
+						<g transform="scale(-1 1)">
+							<path id="b_145_" style="fill:#FFFFFF;" d="M419.1,305.1h3.6v1.7"/>
+						</g>
+					</g>
+				</g>
+				<g transform="rotate(144)">
+					<g id="c_73_">
+						<path id="b_146_" style="fill:#FFFFFF;" d="M424.7,308.9l-1.1-3.3l-1.7,0.5"/>
+						<g transform="scale(-1 1)">
+							<path id="b_147_" style="fill:#FFFFFF;" d="M424.7,308.9l-2.9-2l1.1-1.4"/>
+						</g>
+					</g>
+				</g>
+				<g transform="rotate(216)">
+					<g id="c_74_">
+						<path id="b_148_" style="fill:#FFFFFF;" d="M420.5,308.9l2.9-2l-1.1-1.4"/>
+						<g transform="scale(-1 1)">
+							<path id="b_149_" style="fill:#FFFFFF;" d="M420.5,308.9l1.1-3.3l1.7,0.5"/>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g id="p_5_" transform="scale(26.25)">
+			<g id="a_15_">
+				<g id="c_75_">
+					<path id="b_150_" style="fill:#FFFFFF;" d="M312,240.6l-1.4,4.1l2.1,0.7"/>
+					<g transform="scale(-1 1)">
+						<path id="b_151_" style="fill:#FFFFFF;" d="M312,240.6l1.4,4.1l-2.1,0.7"/>
+					</g>
+				</g>
+				<g transform="rotate(72)">
+					<g id="c_76_">
+						<path id="b_152_" style="fill:#FFFFFF;" d="M316.3,243.6h-4.5v2.1"/>
+						<g transform="scale(-1 1)">
+							<path id="b_153_" style="fill:#FFFFFF;" d="M316.3,243.6l-3.6,2.5l-1.3-1.7"/>
+						</g>
+					</g>
+				</g>
+				<g transform="rotate(-72)">
+					<g id="c_77_">
+						<path id="b_154_" style="fill:#FFFFFF;" d="M307.7,243.6l3.6,2.5l1.3-1.7"/>
+						<g transform="scale(-1 1)">
+							<path id="b_155_" style="fill:#FFFFFF;" d="M307.7,243.6h4.5v2.1"/>
+						</g>
+					</g>
+				</g>
+				<g transform="rotate(144)">
+					<g id="c_78_">
+						<path id="b_156_" style="fill:#FFFFFF;" d="M314.6,248.4l-1.4-4.1l-2.1,0.7"/>
+						<g transform="scale(-1 1)">
+							<path id="b_157_" style="fill:#FFFFFF;" d="M314.6,248.4l-3.6-2.5l1.3-1.7"/>
+						</g>
+					</g>
+				</g>
+				<g transform="rotate(216)">
+					<g id="c_79_">
+						<path id="b_158_" style="fill:#FFFFFF;" d="M309.4,248.4l3.6-2.5l-1.3-1.7"/>
+						<g transform="scale(-1 1)">
+							<path id="b_159_" style="fill:#FFFFFF;" d="M309.4,248.4l1.4-4.1l2.1,0.7"/>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g id="r_5_" transform="scale(21)">
+			<g id="a_16_">
+				<g id="c_80_">
+					<path id="b_160_" style="fill:#FFFFFF;" d="M394.3,230.5l-1.1,3.3l1.7,0.5"/>
+					<g transform="scale(-1 1)">
+						<path id="b_161_" style="fill:#FFFFFF;" d="M394.3,230.5l1.1,3.3l-1.7,0.5"/>
+					</g>
+				</g>
+				<g transform="rotate(72)">
+					<g id="c_81_">
+						<path id="b_162_" style="fill:#FFFFFF;" d="M397.7,232.9h-3.6v1.7"/>
+						<g transform="scale(-1 1)">
+							<path id="b_163_" style="fill:#FFFFFF;" d="M397.7,232.9l-2.9,2l-1.1-1.4"/>
+						</g>
+					</g>
+				</g>
+				<g transform="rotate(-72)">
+					<g id="c_82_">
+						<path id="b_164_" style="fill:#FFFFFF;" d="M390.9,232.9l2.9,2l1.1-1.4"/>
+						<g transform="scale(-1 1)">
+							<path id="b_165_" style="fill:#FFFFFF;" d="M390.9,232.9h3.6v1.7"/>
+						</g>
+					</g>
+				</g>
+				<g transform="rotate(144)">
+					<g id="c_83_">
+						<path id="b_166_" style="fill:#FFFFFF;" d="M396.4,236.7l-1.1-3.3l-1.7,0.5"/>
+						<g transform="scale(-1 1)">
+							<path id="b_167_" style="fill:#FFFFFF;" d="M396.4,236.7l-2.9-2l1.1-1.4"/>
+						</g>
+					</g>
+				</g>
+				<g transform="rotate(216)">
+					<g id="c_84_">
+						<path id="b_168_" style="fill:#FFFFFF;" d="M392.2,236.7l2.9-2l-1.1-1.4"/>
+						<g transform="scale(-1 1)">
+							<path id="b_169_" style="fill:#FFFFFF;" d="M392.2,236.7l1.1-3.3l1.7,0.5"/>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g id="o_4_" transform="scale(31.5)">
+			<g id="a_17_">
+				<g id="c_85_">
+					<path id="b_170_" style="fill:#FFFFFF;" d="M360,288.7l-1.7,4.9l2.6,0.8"/>
+					<g transform="scale(-1 1)">
+						<path id="b_171_" style="fill:#FFFFFF;" d="M360,288.7l1.7,4.9l-2.6,0.8"/>
+					</g>
+				</g>
+				<g transform="rotate(72)">
+					<g id="c_86_">
+						<path id="b_172_" style="fill:#FFFFFF;" d="M365.1,292.3h-5.4v2.6"/>
+						<g transform="scale(-1 1)">
+							<path id="b_173_" style="fill:#FFFFFF;" d="M365.1,292.3l-4.4,3l-1.6-2.1"/>
+						</g>
+					</g>
+				</g>
+				<g transform="rotate(-72)">
+					<g id="c_87_">
+						<path id="b_174_" style="fill:#FFFFFF;" d="M354.9,292.3l4.4,3l1.6-2.1"/>
+						<g transform="scale(-1 1)">
+							<path id="b_175_" style="fill:#FFFFFF;" d="M354.9,292.3h5.4v2.6"/>
+						</g>
+					</g>
+				</g>
+				<g transform="rotate(144)">
+					<g id="c_88_">
+						<path id="b_176_" style="fill:#FFFFFF;" d="M363.2,298l-1.7-4.9l-2.6,0.8"/>
+						<g transform="scale(-1 1)">
+							<path id="b_177_" style="fill:#FFFFFF;" d="M363.2,298l-4.4-3l1.6-2.1"/>
+						</g>
+					</g>
+				</g>
+				<g transform="rotate(216)">
+					<g id="c_89_">
+						<path id="b_178_" style="fill:#FFFFFF;" d="M356.8,298l4.4-3l-1.6-2.1"/>
+						<g transform="scale(-1 1)">
+							<path id="b_179_" style="fill:#FFFFFF;" d="M356.8,298l1.7-4.9l2.6,0.8"/>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g id="p_6_" transform="scale(26.25)">
+			<g id="a_18_">
+				<g id="c_90_">
+					<path id="b_180_" style="fill:#FFFFFF;" d="M374.6,265.8l-1.4,4.1l2.1,0.7"/>
+					<g transform="scale(-1 1)">
+						<path id="b_181_" style="fill:#FFFFFF;" d="M374.6,265.8l1.4,4.1l-2.1,0.7"/>
+					</g>
+				</g>
+				<g transform="rotate(72)">
+					<g id="c_91_">
+						<path id="b_182_" style="fill:#FFFFFF;" d="M378.9,268.7h-4.5v2.1"/>
+						<g transform="scale(-1 1)">
+							<path id="b_183_" style="fill:#FFFFFF;" d="M378.9,268.7l-3.6,2.5l-1.3-1.7"/>
+						</g>
+					</g>
+				</g>
+				<g transform="rotate(-72)">
+					<g id="c_92_">
+						<path id="b_184_" style="fill:#FFFFFF;" d="M370.3,268.7l3.6,2.5l1.3-1.7"/>
+						<g transform="scale(-1 1)">
+							<path id="b_185_" style="fill:#FFFFFF;" d="M370.3,268.7h4.5v2.1"/>
+						</g>
+					</g>
+				</g>
+				<g transform="rotate(144)">
+					<g id="c_93_">
+						<path id="b_186_" style="fill:#FFFFFF;" d="M377.2,273.5l-1.4-4.1l-2.1,0.7"/>
+						<g transform="scale(-1 1)">
+							<path id="b_187_" style="fill:#FFFFFF;" d="M377.2,273.5l-3.6-2.5l1.3-1.7"/>
+						</g>
+					</g>
+				</g>
+				<g transform="rotate(216)">
+					<g id="c_94_">
+						<path id="b_188_" style="fill:#FFFFFF;" d="M371.9,273.5l3.6-2.5l-1.3-1.7"/>
+						<g transform="scale(-1 1)">
+							<path id="b_189_" style="fill:#FFFFFF;" d="M371.9,273.5l1.4-4.1l2.1,0.7"/>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g id="p_7_" transform="scale(26.25)">
+			<g id="a_19_">
+				<g id="c_95_">
+					<path id="b_190_" style="fill:#FFFFFF;" d="M360,255l-1.4,4.1l2.1,0.7"/>
+					<g transform="scale(-1 1)">
+						<path id="b_191_" style="fill:#FFFFFF;" d="M360,255l1.4,4.1l-2.1,0.7"/>
+					</g>
+				</g>
+				<g transform="rotate(72)">
+					<g id="c_96_">
+						<path id="b_192_" style="fill:#FFFFFF;" d="M364.3,257.9h-4.5v2.1"/>
+						<g transform="scale(-1 1)">
+							<path id="b_193_" style="fill:#FFFFFF;" d="M364.3,257.9l-3.6,2.5l-1.3-1.7"/>
+						</g>
+					</g>
+				</g>
+				<g transform="rotate(-72)">
+					<g id="c_97_">
+						<path id="b_194_" style="fill:#FFFFFF;" d="M355.7,257.9l3.6,2.5l1.3-1.7"/>
+						<g transform="scale(-1 1)">
+							<path id="b_195_" style="fill:#FFFFFF;" d="M355.7,257.9h4.5v2.1"/>
+						</g>
+					</g>
+				</g>
+				<g transform="rotate(144)">
+					<g id="c_98_">
+						<path id="b_196_" style="fill:#FFFFFF;" d="M362.6,262.7l-1.4-4.1l-2.1,0.7"/>
+						<g transform="scale(-1 1)">
+							<path id="b_197_" style="fill:#FFFFFF;" d="M362.6,262.7l-3.6-2.5l1.3-1.7"/>
+						</g>
+					</g>
+				</g>
+				<g transform="rotate(216)">
+					<g id="c_99_">
+						<path id="b_198_" style="fill:#FFFFFF;" d="M357.4,262.7l3.6-2.5l-1.3-1.7"/>
+						<g transform="scale(-1 1)">
+							<path id="b_199_" style="fill:#FFFFFF;" d="M357.4,262.7l1.4-4.1l2.1,0.7"/>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g id="r_6_" transform="scale(21)">
+			<g id="a_20_">
+				<g id="c_100_">
+					<path id="b_200_" style="fill:#FFFFFF;" d="M347.3,266.6l-1.1,3.3l1.7,0.5"/>
+					<g transform="scale(-1 1)">
+						<path id="b_201_" style="fill:#FFFFFF;" d="M347.3,266.6l1.1,3.3l-1.7,0.5"/>
+					</g>
+				</g>
+				<g transform="rotate(72)">
+					<g id="c_101_">
+						<path id="b_202_" style="fill:#FFFFFF;" d="M350.7,269h-3.6v1.7"/>
+						<g transform="scale(-1 1)">
+							<path id="b_203_" style="fill:#FFFFFF;" d="M350.7,269l-2.9,2l-1.1-1.4"/>
+						</g>
+					</g>
+				</g>
+				<g transform="rotate(-72)">
+					<g id="c_102_">
+						<path id="b_204_" style="fill:#FFFFFF;" d="M343.9,269l2.9,2l1.1-1.4"/>
+						<g transform="scale(-1 1)">
+							<path id="b_205_" style="fill:#FFFFFF;" d="M343.9,269h3.6v1.7"/>
+						</g>
+					</g>
+				</g>
+				<g transform="rotate(144)">
+					<g id="c_103_">
+						<path id="b_206_" style="fill:#FFFFFF;" d="M349.4,272.8l-1.1-3.3l-1.7,0.5"/>
+						<g transform="scale(-1 1)">
+							<path id="b_207_" style="fill:#FFFFFF;" d="M349.4,272.8l-2.9-2l1.1-1.4"/>
+						</g>
+					</g>
+				</g>
+				<g transform="rotate(216)">
+					<g id="c_104_">
+						<path id="b_208_" style="fill:#FFFFFF;" d="M345.2,272.8l2.9-2l-1.1-1.4"/>
+						<g transform="scale(-1 1)">
+							<path id="b_209_" style="fill:#FFFFFF;" d="M345.2,272.8l1.1-3.3l1.7,0.5"/>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g id="q_1_" transform="scale(15)">
+			<g id="a_21_">
+				<g id="c_105_">
+					<path id="b_210_" style="fill:#FFFFFF;" d="M353.7,275.9l-0.8,2.3l1.2,0.4"/>
+					<g transform="scale(-1 1)">
+						<path id="b_211_" style="fill:#FFFFFF;" d="M353.7,275.9l0.8,2.3l-1.2,0.4"/>
+					</g>
+				</g>
+				<g transform="rotate(72)">
+					<g id="c_106_">
+						<path id="b_212_" style="fill:#FFFFFF;" d="M356.1,277.6h-2.6v1.2"/>
+						<g transform="scale(-1 1)">
+							<path id="b_213_" style="fill:#FFFFFF;" d="M356.1,277.6l-2.1,1.4l-0.8-1"/>
+						</g>
+					</g>
+				</g>
+				<g transform="rotate(-72)">
+					<g id="c_107_">
+						<path id="b_214_" style="fill:#FFFFFF;" d="M351.2,277.6l2.1,1.4l0.8-1"/>
+						<g transform="scale(-1 1)">
+							<path id="b_215_" style="fill:#FFFFFF;" d="M351.2,277.6h2.6v1.2"/>
+						</g>
+					</g>
+				</g>
+				<g transform="rotate(144)">
+					<g id="c_108_">
+						<path id="b_216_" style="fill:#FFFFFF;" d="M355.2,280.3l-0.8-2.3l-1.2,0.4"/>
+						<g transform="scale(-1 1)">
+							<path id="b_217_" style="fill:#FFFFFF;" d="M355.2,280.3l-2.1-1.4l0.8-1"/>
+						</g>
+					</g>
+				</g>
+				<g transform="rotate(216)">
+					<g id="c_109_">
+						<path id="b_218_" style="fill:#FFFFFF;" d="M352.1,280.3l2.1-1.4l-0.8-1"/>
+						<g transform="scale(-1 1)">
+							<path id="b_219_" style="fill:#FFFFFF;" d="M352.1,280.3l0.8-2.3l1.2,0.4"/>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g id="p_8_" transform="scale(26.25)">
+			<g id="a_22_">
+				<g id="c_110_">
+					<path id="b_220_" style="fill:#FFFFFF;" d="M397.7,316.5l-1.4,4.1l2.1,0.7"/>
+					<g transform="scale(-1 1)">
+						<path id="b_221_" style="fill:#FFFFFF;" d="M397.7,316.5l1.4,4.1l-2.1,0.7"/>
+					</g>
+				</g>
+				<g transform="rotate(72)">
+					<g id="c_111_">
+						<path id="b_222_" style="fill:#FFFFFF;" d="M402,319.5h-4.5v2.1"/>
+						<g transform="scale(-1 1)">
+							<path id="b_223_" style="fill:#FFFFFF;" d="M402,319.5l-3.6,2.5l-1.3-1.7"/>
+						</g>
+					</g>
+				</g>
+				<g transform="rotate(-72)">
+					<g id="c_112_">
+						<path id="b_224_" style="fill:#FFFFFF;" d="M393.4,319.5l3.6,2.5l1.3-1.7"/>
+						<g transform="scale(-1 1)">
+							<path id="b_225_" style="fill:#FFFFFF;" d="M393.4,319.5h4.5v2.1"/>
+						</g>
+					</g>
+				</g>
+				<g transform="rotate(144)">
+					<g id="c_113_">
+						<path id="b_226_" style="fill:#FFFFFF;" d="M400.4,324.3l-1.4-4.1l-2.1,0.7"/>
+						<g transform="scale(-1 1)">
+							<path id="b_227_" style="fill:#FFFFFF;" d="M400.4,324.3l-3.6-2.5l1.3-1.7"/>
+						</g>
+					</g>
+				</g>
+				<g transform="rotate(216)">
+					<g id="c_114_">
+						<path id="b_228_" style="fill:#FFFFFF;" d="M395.1,324.3l3.6-2.5l-1.3-1.7"/>
+						<g transform="scale(-1 1)">
+							<path id="b_229_" style="fill:#FFFFFF;" d="M395.1,324.3l1.4-4.1l2.1,0.7"/>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g id="r_7_" transform="scale(21)">
+			<g id="a_23_">
+				<g id="c_115_">
+					<path id="b_230_" style="fill:#FFFFFF;" d="M408.5,306.8l-1.1,3.3l1.7,0.5"/>
+					<g transform="scale(-1 1)">
+						<path id="b_231_" style="fill:#FFFFFF;" d="M408.5,306.8l1.1,3.3l-1.7,0.5"/>
+					</g>
+				</g>
+				<g transform="rotate(72)">
+					<g id="c_116_">
+						<path id="b_232_" style="fill:#FFFFFF;" d="M411.9,309.1h-3.6v1.7"/>
+						<g transform="scale(-1 1)">
+							<path id="b_233_" style="fill:#FFFFFF;" d="M411.9,309.1l-2.9,2l-1.1-1.4"/>
+						</g>
+					</g>
+				</g>
+				<g transform="rotate(-72)">
+					<g id="c_117_">
+						<path id="b_234_" style="fill:#FFFFFF;" d="M405.1,309.1l2.9,2l1.1-1.4"/>
+						<g transform="scale(-1 1)">
+							<path id="b_235_" style="fill:#FFFFFF;" d="M405.1,309.1h3.6v1.7"/>
+						</g>
+					</g>
+				</g>
+				<g transform="rotate(144)">
+					<g id="c_118_">
+						<path id="b_236_" style="fill:#FFFFFF;" d="M410.6,313l-1.1-3.3l-1.7,0.5"/>
+						<g transform="scale(-1 1)">
+							<path id="b_237_" style="fill:#FFFFFF;" d="M410.6,313l-2.9-2l1.1-1.4"/>
+						</g>
+					</g>
+				</g>
+				<g transform="rotate(216)">
+					<g id="c_119_">
+						<path id="b_238_" style="fill:#FFFFFF;" d="M406.4,313l2.9-2l-1.1-1.4"/>
+						<g transform="scale(-1 1)">
+							<path id="b_239_" style="fill:#FFFFFF;" d="M406.4,313l1.1-3.3l1.7,0.5"/>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g id="r_8_" transform="scale(21)">
+			<g id="a_24_">
+				<g id="c_120_">
+					<path id="b_240_" style="fill:#FFFFFF;" d="M387.8,303.8l-1.1,3.3l1.7,0.5"/>
+					<g transform="scale(-1 1)">
+						<path id="b_241_" style="fill:#FFFFFF;" d="M387.8,303.8l1.1,3.3l-1.7,0.5"/>
+					</g>
+				</g>
+				<g transform="rotate(72)">
+					<g id="c_121_">
+						<path id="b_242_" style="fill:#FFFFFF;" d="M391.2,306.2h-3.6v1.7"/>
+						<g transform="scale(-1 1)">
+							<path id="b_243_" style="fill:#FFFFFF;" d="M391.2,306.2l-2.9,2l-1.1-1.4"/>
+						</g>
+					</g>
+				</g>
+				<g transform="rotate(-72)">
+					<g id="c_122_">
+						<path id="b_244_" style="fill:#FFFFFF;" d="M384.3,306.2l2.9,2l1.1-1.4"/>
+						<g transform="scale(-1 1)">
+							<path id="b_245_" style="fill:#FFFFFF;" d="M384.3,306.2h3.6v1.7"/>
+						</g>
+					</g>
+				</g>
+				<g transform="rotate(144)">
+					<g id="c_123_">
+						<path id="b_246_" style="fill:#FFFFFF;" d="M389.9,310l-1.1-3.3l-1.7,0.5"/>
+						<g transform="scale(-1 1)">
+							<path id="b_247_" style="fill:#FFFFFF;" d="M389.9,310l-2.9-2l1.1-1.4"/>
+						</g>
+					</g>
+				</g>
+				<g transform="rotate(216)">
+					<g id="c_124_">
+						<path id="b_248_" style="fill:#FFFFFF;" d="M385.7,310l2.9-2l-1.1-1.4"/>
+						<g transform="scale(-1 1)">
+							<path id="b_249_" style="fill:#FFFFFF;" d="M385.7,310l1.1-3.3l1.7,0.5"/>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g id="o_5_" transform="scale(31.5)">
+			<g id="a_25_">
+				<g id="c_125_">
+					<path id="b_250_" style="fill:#FFFFFF;" d="M309.4,298.5l-1.7,4.9l2.6,0.8"/>
+					<g transform="scale(-1 1)">
+						<path id="b_251_" style="fill:#FFFFFF;" d="M309.4,298.5l1.7,4.9l-2.6,0.8"/>
+					</g>
+				</g>
+				<g transform="rotate(72)">
+					<g id="c_126_">
+						<path id="b_252_" style="fill:#FFFFFF;" d="M314.6,302.1h-5.4v2.6"/>
+						<g transform="scale(-1 1)">
+							<path id="b_253_" style="fill:#FFFFFF;" d="M314.6,302.1l-4.4,3l-1.6-2.1"/>
+						</g>
+					</g>
+				</g>
+				<g transform="rotate(-72)">
+					<g id="c_127_">
+						<path id="b_254_" style="fill:#FFFFFF;" d="M304.3,302.1l4.4,3l1.6-2.1"/>
+						<g transform="scale(-1 1)">
+							<path id="b_255_" style="fill:#FFFFFF;" d="M304.3,302.1h5.4v2.6"/>
+						</g>
+					</g>
+				</g>
+				<g transform="rotate(144)">
+					<g id="c_128_">
+						<path id="b_256_" style="fill:#FFFFFF;" d="M312.6,307.8l-1.7-4.9l-2.6,0.8"/>
+						<g transform="scale(-1 1)">
+							<path id="b_257_" style="fill:#FFFFFF;" d="M312.6,307.8l-4.4-3l1.6-2.1"/>
+						</g>
+					</g>
+				</g>
+				<g transform="rotate(216)">
+					<g id="c_129_">
+						<path id="b_258_" style="fill:#FFFFFF;" d="M306.3,307.8l4.4-3l-1.6-2.1"/>
+						<g transform="scale(-1 1)">
+							<path id="b_259_" style="fill:#FFFFFF;" d="M306.3,307.8l1.7-4.9l2.6,0.8"/>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g id="s" transform="scale(10.5)">
+			<g id="a_26_">
+				<g id="c_130_">
+					<path id="b_260_" style="fill:#FFFFFF;" d="M360,332.2l-0.6,1.6l0.9,0.3"/>
+					<g transform="scale(-1 1)">
+						<path id="b_261_" style="fill:#FFFFFF;" d="M360,332.2l0.6,1.6l-0.9,0.3"/>
+					</g>
+				</g>
+				<g transform="rotate(72)">
+					<g id="c_131_">
+						<path id="b_262_" style="fill:#FFFFFF;" d="M361.7,333.3h-1.8v0.9"/>
+						<g transform="scale(-1 1)">
+							<path id="b_263_" style="fill:#FFFFFF;" d="M361.7,333.3l-1.5,1l-0.5-0.7"/>
+						</g>
+					</g>
+				</g>
+				<g transform="rotate(-72)">
+					<g id="c_132_">
+						<path id="b_264_" style="fill:#FFFFFF;" d="M358.3,333.3l1.5,1l0.5-0.7"/>
+						<g transform="scale(-1 1)">
+							<path id="b_265_" style="fill:#FFFFFF;" d="M358.3,333.3h1.8v0.9"/>
+						</g>
+					</g>
+				</g>
+				<g transform="rotate(144)">
+					<g id="c_133_">
+						<path id="b_266_" style="fill:#FFFFFF;" d="M361.1,335.3l-0.6-1.6l-0.9,0.3"/>
+						<g transform="scale(-1 1)">
+							<path id="b_267_" style="fill:#FFFFFF;" d="M361.1,335.3l-1.5-1l0.5-0.7"/>
+						</g>
+					</g>
+				</g>
+				<g transform="rotate(216)">
+					<g id="c_134_">
+						<path id="b_268_" style="fill:#FFFFFF;" d="M358.9,335.3l1.5-1l-0.5-0.7"/>
+						<g transform="scale(-1 1)">
+							<path id="b_269_" style="fill:#FFFFFF;" d="M358.9,335.3l0.6-1.6l0.9,0.3"/>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>

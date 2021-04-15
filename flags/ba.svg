@@ -1,1 +1,50 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 16 8"><defs><clipPath id="a"><path d="M0 0h16v8H0z"/></clipPath></defs><g clip-path="url(#a)"><path fill="#002395" d="M0 0h16v8H0z"/><path d="M4.24 0h8v8z" fill="#fecb00"/><g id="c"><path d="M2.353.525L2.8-.85 3.247.525l-1.17-.85h1.446z" fill="#fff" id="b"/><use xlink:href="#b" x="1" y="1"/><use xlink:href="#b" x="2" y="2"/></g><use xlink:href="#c" x="3" y="3"/><use xlink:href="#c" x="6" y="6"/></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 720 480" style="enable-background:new 0 0 720 480;" xml:space="preserve">
+<g>
+	<g>
+		<defs>
+			<rect id="SVGID_1_" width="720" height="480"/>
+		</defs>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+		</clipPath>
+		<g style="clip-path:url(#SVGID_2_);">
+			<path style="fill:#002395;" d="M0,0h720v480H0V0z"/>
+			<path style="fill:#FECB00;" d="M191,0h360v480L191,0z"/>
+			<g id="c">
+				<path id="b" style="fill:#FFFFFF;" d="M106,31l20-82l20,82L93-20h65L106,31z"/>
+				<g>
+					<path id="b_1_" style="fill:#FFFFFF;" d="M151,91l20-82l20,82l-53-51h65L151,91z"/>
+				</g>
+				<g>
+					<path id="b_2_" style="fill:#FFFFFF;" d="M196,151l20-82l20,82l-53-51h65L196,151z"/>
+				</g>
+			</g>
+			<g>
+				<g id="c_1_">
+					<path id="b_3_" style="fill:#FFFFFF;" d="M241,211l20-82l20,82l-53-51h65L241,211z"/>
+					<g>
+						<path id="b_4_" style="fill:#FFFFFF;" d="M286,271l20-82l20,82l-53-51h65L286,271z"/>
+					</g>
+					<g>
+						<path id="b_5_" style="fill:#FFFFFF;" d="M331,332l20-83l20,83l-53-52h65L331,332z"/>
+					</g>
+				</g>
+			</g>
+			<g>
+				<g id="c_2_">
+					<path id="b_6_" style="fill:#FFFFFF;" d="M376,392l20-83l20,83l-53-52h65L376,392z"/>
+					<g>
+						<path id="b_7_" style="fill:#FFFFFF;" d="M421,452l20-82l20,82l-53-52h65L421,452z"/>
+					</g>
+					<g>
+						<path id="b_8_" style="fill:#FFFFFF;" d="M466,512l20-82l20,82l-53-52h65L466,512z"/>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>

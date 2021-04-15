@@ -1,5 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 3 2">
-<rect id="green_area" width="3" height="2" fill="#009543"/>
-<path id="yellow_area" d="M 0 2 L 2 0 h 1 v 2 z" fill="#FBDE4A"/>
-<path id="red_area" d="M 3 0 v 2 h -2 z" fill="#DC241F"/>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 720 480" style="enable-background:new 0 0 720 480;" xml:space="preserve">
+<g>
+	<rect id="green_area" style="fill:#009543;" width="720" height="480"/>
+	<path id="yellow_area" style="fill:#FBDE4A;" d="M0,480L480,0h240v480H0z"/>
+	<path id="red_area" style="fill:#DC241F;" d="M720,0v480H240L720,0z"/>
+</g>
 </svg>

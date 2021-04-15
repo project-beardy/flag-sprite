@@ -1,15 +1,50 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 90 60">
-<rect width="30" height="60" fill="#007a5e"/>
-<rect x="30" width="30" height="60" fill="#ce1126"/>
-<rect x="60" width="30" height="60" fill="#fcd116"/>
-<g transform="translate(45,30)" fill="#fcd116">
-<g id="c">
-<path id="t" d="M 0,-8 v 8 h 4 z" transform="rotate(18 0,-8)"/>
-<use xlink:href="#t" transform="scale(-1,1)"/>
-</g>
-<use xlink:href="#c" transform="rotate(72)"/>
-<use xlink:href="#c" transform="rotate(144)"/>
-<use xlink:href="#c" transform="rotate(216)"/>
-<use xlink:href="#c" transform="rotate(288)"/>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 720 480" style="enable-background:new 0 0 720 480;" xml:space="preserve">
+<g>
+	<rect style="fill:#007A5E;" width="240" height="480"/>
+	<rect x="240" style="fill:#CE1126;" width="240" height="480"/>
+	<rect x="480" style="fill:#FCD116;" width="240" height="480"/>
+	<g transform="translate(45,30)">
+		<g id="c">
+			<path id="t" style="fill:#FCD116;" d="M315,146l-19.8,60.9l30.4,9.9L315,146z"/>
+			<g transform="scale(-1,1)">
+				<path id="t_1_" style="fill:#FCD116;" d="M315,146l19.8,60.9l-30.4,9.9L315,146z"/>
+			</g>
+		</g>
+		<g transform="rotate(72)">
+			<g id="c_1_">
+				<path id="t_2_" style="fill:#FCD116;" d="M375.9,190.2h-64v32L375.9,190.2z"/>
+				<g transform="scale(-1,1)">
+					<path id="t_3_" style="fill:#FCD116;" d="M375.9,190.2l-51.8,37.6L305.3,202L375.9,190.2z"/>
+				</g>
+			</g>
+		</g>
+		<g transform="rotate(144)">
+			<g id="c_2_">
+				<path id="t_4_" style="fill:#FCD116;" d="M352.6,261.8l-19.8-60.9l-30.4,9.9L352.6,261.8z"/>
+				<g transform="scale(-1,1)">
+					<path id="t_5_" style="fill:#FCD116;" d="M352.6,261.8l-51.8-37.6l18.8-25.9L352.6,261.8z"/>
+				</g>
+			</g>
+		</g>
+		<g transform="rotate(216)">
+			<g id="c_3_">
+				<path id="t_6_" style="fill:#FCD116;" d="M277.4,261.8l51.8-37.6l-18.8-25.9L277.4,261.8z"/>
+				<g transform="scale(-1,1)">
+					<path id="t_7_" style="fill:#FCD116;" d="M277.4,261.8l19.8-60.9l30.4,9.9L277.4,261.8z"/>
+				</g>
+			</g>
+		</g>
+		<g transform="rotate(288)">
+			<g id="c_4_">
+				<path id="t_8_" style="fill:#FCD116;" d="M254.1,190.2l51.8,37.6l18.8-25.9L254.1,190.2z"/>
+				<g transform="scale(-1,1)">
+					<path id="t_9_" style="fill:#FCD116;" d="M254.1,190.2h64v32L254.1,190.2z"/>
+				</g>
+			</g>
+		</g>
+	</g>
 </g>
 </svg>
