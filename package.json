@@ -2,7 +2,7 @@
   "name": "@project-beardy/iso-flag-sprite",
   "version": "0.0.1",
   "description": "",
-  "main": "make.js",
+  "main": "./make.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
