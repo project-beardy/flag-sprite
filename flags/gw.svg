@@ -6,43 +6,7 @@
 	<rect style="fill:#CE1126;" width="240" height="480"/>
 	<rect x="240" style="fill:#FCD116;" width="480" height="240"/>
 	<rect x="240" y="240" style="fill:#009E49;" width="480" height="240"/>
-	<g id="c">
-		<path id="t" d="M120,160l-18.5,76.1l28.5,12.4"/>
-		<g transform="scale(-1,1)">
-			<path id="t_1_" d="M120,160l18.5,76.1L110,248.4"/>
-		</g>
-	</g>
-	<g transform="rotate(72)">
-		<g id="c_1_">
-			<path id="t_2_" d="M177.1,215.3h-60v40"/>
-			<g transform="scale(-1,1)">
-				<path id="t_3_" d="M177.1,215.3l-48.5,47l-17.6-32.4"/>
-			</g>
-		</g>
-	</g>
-	<g transform="rotate(144)">
-		<g id="c_2_">
-			<path id="t_4_" d="M155.3,304.7l-18.5-76.1L108.2,241"/>
-			<g transform="scale(-1,1)">
-				<path id="t_5_" d="M155.3,304.7l-48.5-47l17.6-32.4"/>
-			</g>
-		</g>
-	</g>
-	<g transform="rotate(216)">
-		<g id="c_3_">
-			<path id="t_6_" d="M84.7,304.7l48.5-47l-17.6-32.4"/>
-			<g transform="scale(-1,1)">
-				<path id="t_7_" d="M84.7,304.7l18.5-76.1l28.5,12.4"/>
-			</g>
-		</g>
-	</g>
-	<g transform="rotate(288)">
-		<g id="c_4_">
-			<path id="t_8_" d="M62.9,215.3l48.5,47l17.6-32.4"/>
-			<g transform="scale(-1,1)">
-				<path id="t_9_" d="M62.9,215.3h60v40"/>
-			</g>
-		</g>
-	</g>
+	<polygon points="141.8,249.4 177.1,215.3 133.5,215.3 120,160 106.5,215.3 62.9,215.3 98.2,249.4 84.7,304.7 120,270.6 
+		155.3,304.7 	"/>
 </g>
 </svg>

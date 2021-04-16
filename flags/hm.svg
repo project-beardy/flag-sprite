@@ -1,1 +1,85 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 10080 5040"><defs><clipPath id="b"><path d="M0 0h6v3H0z"/></clipPath><clipPath id="c"><path d="M0 0v1.5h6V3zm6 0H3v3H0z"/></clipPath><path id="a" d="M0-360l69.421 215.845 212.038-80.301L155.99-35.603l194.985 115.71-225.881 19.651 31.105 224.59L0 160l-156.198 164.349 31.105-224.59-225.881-19.651 194.986-115.711-125.471-188.853 212.038 80.301z"/><path id="e" d="M0-210L54.86-75.508l144.862 10.614L88.765 28.842l34.67 141.052L0 93.334l-123.435 76.56 34.67-141.052-110.957-93.736L-54.86-75.508z"/><use id="d" xlink:href="#a" transform="scale(2.1)"/></defs><path fill="#012169" d="M0 0h10080v5040H0z"/><path d="M0 0l6 3m0-3L0 3" stroke="#fff" stroke-width=".6" clip-path="url(#b)" transform="scale(840)"/><path d="M0 0l6 3m0-3L0 3" stroke="#e4002b" stroke-width=".4" clip-path="url(#c)" transform="scale(840)"/><path d="M2520 0v2520M0 1260h5040" stroke="#fff" stroke-width="840"/><path d="M2520 0v2520M0 1260h5040" stroke="#e4002b" stroke-width="504"/><g fill="#fff"><use xlink:href="#d" x="2520" y="3780"/><use xlink:href="#a" x="7560" y="4200"/><use xlink:href="#a" x="6300" y="2205"/><use xlink:href="#a" x="7560" y="840"/><use xlink:href="#a" x="8680" y="1869"/><use xlink:href="#e" x="8064" y="2730"/></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 720 480" style="enable-background:new 0 0 720 480;" xml:space="preserve">
+<g>
+	<path style="fill:#012169;" d="M0,0h720v480H0V0z"/>
+	<g>
+		<g>
+			<g id="d" transform="scale(2.1)">
+				<path id="a" style="fill:#FFFFFF;" d="M180,287.5l10.4,41.3l31.8-15.3l-18.8,36.1l29.2,22.1l-33.9,3.8l4.7,42.9L180,386.9
+					l-23.4,31.4l4.7-42.9l-33.9-3.8l29.2-22.1l-18.8-36.1l31.8,15.3L180,287.5z"/>
+			</g>
+		</g>
+		<g>
+			<path id="a_1_" style="fill:#FFFFFF;" d="M540,361.8l5,19.6l15.1-7.3l-9,17.2l13.9,10.5l-16.1,1.8l2.2,20.4l-11.2-15l-11.2,15
+				l2.2-20.4l-16.1-1.8l13.9-10.5l-9-17.2l15.1,7.3L540,361.8z"/>
+		</g>
+		<g>
+			<path id="a_2_" style="fill:#FFFFFF;" d="M450,180.2l5,19.6l15.1-7.3l-9,17.2l13.9,10.5l-16.1,1.8l2.2,20.4l-11.2-15l-11.2,15
+				l2.2-20.4l-16.1-1.8l13.9-10.5l-9-17.2l15.1,7.3L450,180.2z"/>
+		</g>
+		<g>
+			<path id="a_3_" style="fill:#FFFFFF;" d="M540,56l5,19.6l15.1-7.3l-9,17.2L565.1,96l-16.1,1.8l2.2,20.4l-11.2-15l-11.2,15
+				l2.2-20.4L514.9,96l13.9-10.5l-9-17.2l15.1,7.3L540,56z"/>
+		</g>
+		<g>
+			<path id="a_4_" style="fill:#FFFFFF;" d="M620,149.6l5,19.6l15.1-7.3l-9,17.2l13.9,10.5l-16.1,1.8l2.2,20.4l-11.2-15l-11.2,15
+				l2.2-20.4l-16.1-1.8l13.9-10.5l-9-17.2l15.1,7.3L620,149.6z"/>
+		</g>
+		<g>
+			<path id="e" style="fill:#FFFFFF;" d="M576,241.6l3.9,12.2l10.3,1l-7.9,8.5l2.5,12.8l-8.8-7l-8.8,7l2.5-12.8l-7.9-8.5l10.3-1
+				L576,241.6z"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<g>
+					<defs>
+						<rect id="SVGID_1_" width="288" height="238.4"/>
+					</defs>
+					<clipPath id="SVGID_2_">
+						<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+					</clipPath>
+					<g style="clip-path:url(#SVGID_2_);">
+						<path style="fill:#012169;" d="M0,0v238.4h288V0H0z"/>
+						<g>
+							<path d="M0,0l288,238.4 M288,0L0,238.4"/>
+							<polygon style="fill:#FFFFFF;" points="281.5,259.7 144,145.8 6.5,259.7 -6.5,217.1 111.8,119.2 -6.5,21.3 6.5,-21.3 
+								144,92.6 281.5,-21.3 294.4,21.3 176.2,119.2 294.4,217.1 							"/>
+						</g>
+						<g>
+							<g>
+								<g>
+									<defs>
+										<polygon id="SVGID_3_" points="144,119.2 288,119.2 288,238.4 144,238.4 0,238.4 0,119.2 0,0 144,0 288,0 										"/>
+									</defs>
+									<clipPath id="SVGID_4_">
+										<use xlink:href="#SVGID_3_"  style="overflow:visible;"/>
+									</clipPath>
+									<g style="clip-path:url(#SVGID_4_);">
+										<path d="M0,0l288,238.4 M288,0L0,238.4"/>
+										<polygon style="fill:#C8102E;" points="283.7,252.6 144,137 4.3,252.6 -4.3,224.2 122.5,119.2 -4.3,14.2 4.3,-14.2 
+											144,101.4 283.7,-14.2 292.2,14.2 165.5,119.2 292.2,224.2 										"/>
+									</g>
+								</g>
+							</g>
+						</g>
+						<g>
+							<path d="M144,0v238.4 M0,119.2h288"/>
+							<polygon style="fill:#FFFFFF;" points="168,238.4 120,238.4 120,158.9 0,158.9 0,79.5 120,79.5 120,0 168,0 168,79.5 
+								288,79.5 288,158.9 168,158.9 							"/>
+						</g>
+						<g>
+							<path d="M144,0v238.4 M0,119.2h288"/>
+							<polygon style="fill:#C8102E;" points="158.4,238.4 129.6,238.4 129.6,143 0,143 0,95.4 129.6,95.4 129.6,0 158.4,0 
+								158.4,95.4 288,95.4 288,143 158.4,143 							"/>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>
