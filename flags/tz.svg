@@ -1,1 +1,24 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 48"><defs><clipPath id="a"><path d="M0 0h72v48H0z"/></clipPath></defs><path fill="#1eb53a" d="M0 48V0h72z"/><path fill="#00a3dd" d="M72 0v48H0z"/><g clip-path="url(#a)" fill="none"><path stroke="#fcd116" stroke-width="19" d="M0 48L72 0"/><path stroke="#000" stroke-width="13" d="M0 48L72 0"/></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 720 480" style="enable-background:new 0 0 720 480;" xml:space="preserve">
+<g>
+	<g>
+		<path style="fill:#1EB53A;" d="M0,480V0h720L0,480z"/>
+		<path style="fill:#00A3DD;" d="M720,0v480H0L720,0z"/>
+	</g>
+	<g>
+		<defs>
+			<rect id="SVGID_1_" width="720" height="480"/>
+		</defs>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+		</clipPath>
+		<g style="clip-path:url(#SVGID_2_);">
+			
+				<rect x="-72.7" y="145" transform="matrix(0.8321 -0.5547 0.5547 0.8321 -72.6668 240.0003)" style="fill:#FCD116;" width="865.3" height="190"/>
+			<rect x="-72.7" y="175" transform="matrix(0.8321 -0.5547 0.5547 0.8321 -72.6668 240.0003)" width="865.3" height="130"/>
+		</g>
+	</g>
+</g>
+</svg>

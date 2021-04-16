@@ -1,1 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 100"><path fill="#ED2939" d="M0 0h150v100H0z"/><path fill="#FFF" d="M0 0h40v40H0z"/><path fill="#002395" d="M0 0h20v40H0z"/><path fill="none" stroke="#FFF" d="M0 40h60V0"/><path fill="#FFF" d="M105 46L93 34h24zm-4 4L89 38v24zm4 4L93 66h24zm4-4l12-12v24z"/></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 720 480" style="enable-background:new 0 0 720 480;" xml:space="preserve">
+<g>
+	<path style="fill:#ED2939;" d="M0,0h720v480H0V0z"/>
+	<path style="fill:#FFFFFF;" d="M0,0h192v192H0V0z"/>
+	<path style="fill:#002395;" d="M0,0h96v192H0V0z"/>
+	<path style="fill:none;stroke:#FFFFFF;" d="M0,192h288V0"/>
+	<path style="fill:#FFFFFF;" d="M504,220.8l-57.6-57.6h115.2L504,220.8z M484.8,240l-57.6-57.6v115.2L484.8,240z M504,259.2
+		l-57.6,57.6h115.2L504,259.2z M523.2,240l57.6-57.6v115.2L523.2,240z"/>
+</g>
+</svg>

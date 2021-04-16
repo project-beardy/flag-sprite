@@ -1,1 +1,26 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 600 400"><defs><path id="a" transform="scale(21)" fill="#fff" d="M0-1L.588.809-.952-.309H.952L-.588.809z"/></defs><path fill="#002395" d="M0 0h600v400H0z"/><path fill="#fff" d="M0 0h244v164H0z"/><path fill="#002395" d="M0 0h80v160H0z"/><path fill="#ED2939" d="M160 0h80v160h-80z"/><path fill="#fff" d="M355 183l12.875 20.5H404.5V275L377 232l-37 59h18l19-34 39 70 39-70 19 34h18l-37-59-27.5 43v-39.5H444l12.25-19.5H427.5v-12.5h36.625L477 183H355zm43 87.5h-40v14h40zm76 0h-40v14h40z"/><use xlink:href="#a" x="416" y="362"/><use xlink:href="#a" x="371" y="328"/><use xlink:href="#a" x="461" y="328"/><use xlink:href="#a" x="333" y="227"/><use xlink:href="#a" x="499" y="227"/></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 720 480" style="enable-background:new 0 0 720 480;" xml:space="preserve">
+<g>
+	<path style="fill:#002395;" d="M0,0h720v480H0V0z"/>
+	<path style="fill:#FFFFFF;" d="M0,0h292.8v196.8H0V0z"/>
+	<path style="fill:#002395;" d="M0,0h96v192H0V0z"/>
+	<path style="fill:#ED2939;" d="M192,0h96v192h-96V0z"/>
+	<path style="fill:#FFFFFF;" d="M426,219.6l15.5,24.6h43.9V330l-33-51.6L408,349.2h21.6l22.8-40.8l46.8,84l46.8-84l22.8,40.8h21.6
+		L546,278.4L513,330v-47.4h19.8l14.7-23.4H513v-15h44l15.5-24.6H426z M477.6,324.6h-48v16.8h48V324.6z M568.8,324.6h-48v16.8h48
+		V324.6z"/>
+	<g>
+		<polygon style="fill:#FFFFFF;" points="504.9,426.6 499.2,409.2 493.5,426.6 475.2,426.6 490,437.4 484.4,454.8 499.2,444 
+			514,454.8 508.4,437.4 523.2,426.6 		"/>
+		<polygon style="fill:#FFFFFF;" points="450.9,385.8 445.2,368.4 439.5,385.8 421.2,385.8 436,396.6 430.4,414 445.2,403.2 
+			460,414 454.4,396.6 469.2,385.8 		"/>
+		<polygon style="fill:#FFFFFF;" points="558.9,385.8 553.2,368.4 547.5,385.8 529.2,385.8 544,396.6 538.4,414 553.2,403.2 
+			568,414 562.4,396.6 577.2,385.8 		"/>
+		<polygon style="fill:#FFFFFF;" points="408.8,275.4 423.6,264.6 405.3,264.6 399.6,247.2 393.9,264.6 375.6,264.6 390.4,275.4 
+			384.8,292.8 399.6,282 414.4,292.8 		"/>
+		<polygon style="fill:#FFFFFF;" points="608,275.4 622.8,264.6 604.5,264.6 598.8,247.2 593.1,264.6 574.8,264.6 589.6,275.4 
+			584,292.8 598.8,282 613.6,292.8 		"/>
+	</g>
+</g>
+</svg>
