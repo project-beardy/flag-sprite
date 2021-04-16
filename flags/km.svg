@@ -1,13 +1,24 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 500 300">
-<rect fill="#3A75C4" width="500" height="300"/>
-<rect fill="#CE1126" width="500" height="225"/>
-<rect fill="#FFF" width="500" height="150"/>
-<rect fill="#FFC61E" width="500" height="75"/>
-<path fill="#3D8E33" d="M0,300l250-150L0,0V300z"/>
-<circle fill="#FFF" cx="85" cy="150" r="67.5"/>
-<circle fill="#3D8E33" cx="115" cy="150" r="67.5"/>
-<path id="star" fill="#FFF" d="M100.0104,89.1996l7.3594,22.5883L88.1125,97.8394h23.775l-19.2573,13.9486L100.0104,89.1996z"/>
-<use xlink:href="#star" y="32.2083"/>
-<use xlink:href="#star" y="64.4166"/>
-<use xlink:href="#star" y="96.625"/>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 720 480" style="enable-background:new 0 0 720 480;" xml:space="preserve">
+<g>
+	<rect style="fill:#3A75C4;" width="720" height="480"/>
+	<rect style="fill:#CE1126;" width="720" height="360"/>
+	<rect style="fill:#FFFFFF;" width="720" height="240"/>
+	<rect style="fill:#FFC61E;" width="720" height="120"/>
+	<path style="fill:#3D8E33;" d="M0,480l360-240L0,0V480z"/>
+	<ellipse style="fill:#FFFFFF;" cx="122.4" cy="240" rx="97.2" ry="108"/>
+	<ellipse style="fill:#3D8E33;" cx="165.6" cy="240" rx="97.2" ry="108"/>
+	<path id="star" style="fill:#FFFFFF;" d="M144,142.7l10.6,36.1l-27.7-22.3h34.2l-27.7,22.3L144,142.7z"/>
+	<g>
+		<path id="star_1_" style="fill:#FFFFFF;" d="M144,194.3l10.6,36.1l-27.7-22.3h34.2l-27.7,22.3L144,194.3z"/>
+	</g>
+	<g>
+		<path id="star_2_" style="fill:#FFFFFF;" d="M144,245.8l10.6,36.1l-27.7-22.3h34.2l-27.7,22.3L144,245.8z"/>
+	</g>
+	<g>
+		<path id="star_3_" style="fill:#FFFFFF;" d="M144,297.3l10.6,36.1l-27.7-22.3h34.2l-27.7,22.3L144,297.3z"/>
+	</g>
+</g>
 </svg>

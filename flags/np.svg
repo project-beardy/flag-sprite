@@ -1,33 +1,25 @@
-<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" viewBox="-17.582 -4.664 71.571 87.246">
-<title>Flag of Nepal</title>
-<desc>Coding according to the official construction in "Constitution of the Kingdom of Nepal, Article 5, Shedule 1", adopted in November 1990</desc>
-<use xlink:href="#b" stroke="#003893" stroke-width="5.1646754223"/>
-<path id="b" d="M -15,37.5735931288 h 60 L -15,0 v 80 h 60 L -15,20 z" fill="#DC143C"/>
-<g fill="#fff">
-<path d="M -11.9502769431,23.4834957055 A 12.8400974233,12.8400974233 0 0,0 11.9502769431,23.4834957055 A 11.9502769431 11.9502769431 0 0,1 -11.9502769431,23.4834957055"/>
-<g transform="translate(0,29.0445562765) scale(5.5610605710)">
-<circle r="1"/>
-<g id="jags6">
-<g id="jags3">
-<path id="jag" d="M 0.195090322016,-0.980785280403 L 0,-1.388784109750 L -0.195090322016,-0.980785280403" transform="rotate(11.25)"/>
-<use xlink:href="#jag" transform="rotate(22.5)"/>
-<use xlink:href="#jag" transform="rotate(45)"/>
-</g>
-<use xlink:href="#jags3" transform="rotate(67.5)"/>
-</g>
-<use xlink:href="#jags6" transform="scale(-1, 1)"/>
-</g>
-<g transform="translate(0,58.7867965644) scale(8.1433982822)">
-<circle r="1"/>
-<g id="rays4">
-<g id="rays2">
-<path id="ray" d="M 0.258819045103,0.965925826289 L 0,1.576749285537 L -0.258819045103,0.965925826289"/>
-<use xlink:href="#ray" transform="rotate(180)"/>
-</g>
-<use xlink:href="#rays2" transform="rotate(90)"/>
-</g>
-<use xlink:href="#rays4" transform="rotate(30)"/>
-<use xlink:href="#rays4" transform="rotate(60)"/>
-</g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 720 480" style="enable-background:new 0 0 720 480;" xml:space="preserve">
+<desc>
+	Coding according to the official construction in &quot;Constitution of the Kingdom of Nepal, Article 5, Shedule 1&quot;, adopted in November 1990
+	</desc>
+<g>
+	<g>
+		<path id="b" style="fill:#DC143C;stroke:#003893;stroke-width:5.1647;" d="M2.6,225.6H316L2.6,3.5v472.8H316L2.6,121.7V225.6z"/>
+	</g>
+	<path id="b_1_" style="fill:#DC143C;" d="M2.6,225.6H316L2.6,3.5v472.8H316L2.6,121.7V225.6z"/>
+	<g>
+		<path style="fill:#FFFFFF;" d="M115.3,179.7l-5.3-4.5l10.5-8.9l-12.7-3.7c0,0,0,0,0,0l6.7-12.8l-13,2.1l1.9-14.7l-11.3,7.6
+			c0,0,0,0,0,0l-3.2-14.4l-7.9,11.9l-7.9-11.9l-3.2,14.4c0,0,0,0,0,0l-11.3-7.6l1.9,14.7l-13-2.1l6.7,12.8c0,0,0,0,0,0l-12.7,3.7
+			l10.5,8.9l-5.3,4.5c-12.3-8.3-22.4-21.1-28-37.4c0,39,27.9,70.6,62.4,70.6s62.4-31.6,62.4-70.6C137.9,158,128,171.1,115.3,179.7z"
+			/>
+		<polygon style="fill:#FFFFFF;" points="122,363.4 122,363.4 148,350.9 122,338.5 122,338.5 139,313 111,316.9 111,316.9 
+			111,316.9 111,316.9 114.5,285.2 92,304.4 91.9,304.4 80.9,275 69.9,304.4 69.9,304.4 47.4,285.2 50.9,316.9 50.9,316.9 
+			50.9,316.9 50.9,316.9 22.9,313 39.8,338.5 39.8,338.5 13.9,350.9 39.8,363.4 39.8,363.4 22.9,388.9 50.9,384.9 50.9,384.9 
+			50.9,384.9 50.9,384.9 47.4,416.6 69.9,397.4 69.9,397.4 80.9,426.8 91.9,397.4 92,397.4 114.5,416.6 111,384.9 111,384.9 
+			111,384.9 111,384.9 139,388.9 		"/>
+	</g>
 </g>
 </svg>

@@ -1,8 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 480">
-<rect width="960" height="480" fill="#239e46"/>
-<rect width="960" height="360" fill="#000"/>
-<rect width="960" height="120" fill="#e70013"/>
-<circle cx="480" cy="240" r="60" fill="#fff"/>
-<circle cx="492.132034" cy="240" r="52.132034" fill="#000"/>
-<path d="M509.175411,240 589.875233,213.779039 540,282.426407V197.573593L589.875233,266.220961z" fill="#fff"/>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 720 480" style="enable-background:new 0 0 720 480;" xml:space="preserve">
+<g>
+	<rect style="fill:#239E46;" width="720" height="480"/>
+	<rect width="720" height="360"/>
+	<rect style="fill:#E70013;" width="720" height="120"/>
+	<path style="fill:#FFFFFF;" d="M369.1,292.1c-21.6,0-39.1-23.3-39.1-52.1c0-28.8,17.5-52.1,39.1-52.1c8.5,0,16.3,3.6,22.8,9.7
+		c-8.1-10.9-19.4-17.6-31.8-17.6c-24.9,0-45,26.9-45,60s20.1,60,45,60c12.4,0,23.7-6.7,31.8-17.6
+		C385.4,288.5,377.6,292.1,369.1,292.1z"/>
+	<polygon style="fill:#FFFFFF;" points="428.1,240 442.4,213.8 419.3,223.8 405,197.6 405,230 381.9,240 405,250 405,282.4 
+		419.3,256.2 442.4,266.2 	"/>
+</g>
 </svg>

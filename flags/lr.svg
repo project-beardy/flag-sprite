@@ -1,15 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 209 110">
-<rect fill="#bf0a30" width="209" height="110"/>
-<path d="M0,15H209 M0,35H209 M0,55H209 M0,75H209 M0,95H209" stroke="#fff" stroke-width="10"/>
-<rect fill="#002868" width="50" height="50"/>
-<g transform="translate(25,25) scale(15)">
-<g id="B">
-<polygon id="A" fill="#fff" points="0,0 0,1 .5,1" transform="translate(0,-1) rotate(18)"/>
-<use xlink:href="#A" transform="scale(-1,1)"/>
-</g>
-<use xlink:href="#B" transform="rotate(72)"/>
-<use xlink:href="#B" transform="rotate(-72)"/>
-<use xlink:href="#B" transform="rotate(144)"/>
-<use xlink:href="#B" transform="rotate(-144)"/>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 720 480" style="enable-background:new 0 0 720 480;" xml:space="preserve">
+<g>
+	<rect style="fill:#BF0A30;" width="720" height="480"/>
+	<g>
+		<path d="M0,65.5h720 M0,152.7h720 M0,240h720 M0,327.3h720 M0,414.5h720"/>
+		<path style="fill:#FFFFFF;" d="M720,436.4H0v-43.6h720V436.4z M720,349.1H0v-43.6h720V349.1z M720,261.8H0v-43.6h720V261.8z
+			 M720,174.5H0v-43.6h720V174.5z M720,87.3H0V43.6h720V87.3z"/>
+	</g>
+	<rect style="fill:#002868;" width="172.2" height="218.2"/>
+	<polygon style="fill:#FFFFFF;" points="104.9,116.8 135.3,88.9 97.7,88.9 86.1,43.6 74.5,88.9 37,88.9 67.4,116.8 55.8,162 
+		86.1,134.1 116.5,162 	"/>
 </g>
 </svg>
