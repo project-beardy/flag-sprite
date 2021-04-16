@@ -1,1 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 10"><path fill="#078930" d="M0 0h20v10H0z"/><path fill="#fff" d="M0 0h20v7H0z"/><path d="M0 0h20v3H0z"/><path fill="#da121a" d="M0 3.5h20v3H0z"/><path fill="#0f47af" d="M0 0l8.66 5L0 10z"/><path d="M1.22 5l3.015.98-1.863-2.565v3.17L4.235 4.02z" fill="#fcdd09"/></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 720 480" style="enable-background:new 0 0 720 480;" xml:space="preserve">
+<g>
+	<path style="fill:#078930;" d="M0,0h720v480H0V0z"/>
+	<path style="fill:#FFFFFF;" d="M0,0h720v336H0V0z"/>
+	<path d="M0,0h720v144H0V0z"/>
+	<path style="fill:#DA121A;" d="M0,168h720v144H0V168z"/>
+	<path style="fill:#0F47AF;" d="M0,0l311.8,240L0,480V0z"/>
+	<polygon style="fill:#FCDD09;" points="126.8,240 152.5,193 111,210.9 85.4,163.9 85.4,222 43.9,240 85.4,258 85.4,316.1 
+		111,269.1 152.5,287 	"/>
+</g>
+</svg>
