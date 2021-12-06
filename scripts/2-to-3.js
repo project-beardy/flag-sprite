@@ -20,6 +20,8 @@ const create = async () => {
           `${baseFolder}2 char/${file}`,
           `${baseFolder}3 char/${country["alpha-3"].toLowerCase()}.svg`,
         )
+      } else {
+        console.log(`no match for ${file}`);
       }
     }
 

@@ -1,6 +1,12 @@
 {
 
-"data": [{
+"data": [
+  {
+    "name": "Kosovo",
+    "alpha-2": "XK",
+    "alpha-3": "KOS"
+  },
+  {
   "name": "Afghanistan",
   "alpha-2": "AF",
   "alpha-3": "AFG",
