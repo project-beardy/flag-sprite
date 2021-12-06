@@ -1,4 +1,6 @@
-[{
+{
+
+"data": [{
   "name": "Afghanistan",
   "alpha-2": "AF",
   "alpha-3": "AFG",
@@ -2987,3 +2989,4 @@
   "sub-region-code": "202",
   "intermediate-region-code": "014"
 }]
+}
